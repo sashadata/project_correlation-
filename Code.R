@@ -3,10 +3,12 @@
 
 # INSTALL AND LOAD PACKAGES ################################
 
+library(corrplot)
+library(magrittr)
+library(tidyverse)
+library(pacman)
+library(rio)
 
-# pacman must already be installed; then load contributed
-# packages (including pacman) with pacman
-pacman::p_load(corrplot, magrittr, pacman, rio, tidyverse)
 # corrplot: for visualizing correlation matrices
 # magrittr: for pipes
 # pacman: for loading/unloading packages
