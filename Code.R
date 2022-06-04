@@ -1,16 +1,14 @@
-# Title: Explonatary Data Alanysis 
-### Get to know data you have in the dataset
+# Title: Exploratory Data Analysis
+### Get to know data in the dataset
 
 
 # INSTALL AND LOAD PACKAGES ################################
 
-library(corrplot)
 library(magrittr)
 library(tidyverse)
-library(pacman)
 library(rio)
 
-# corrplot: for visualizing correlation matrices
+
 # magrittr: for pipes
 # rio: for importing data
 # tidyverse: for so many reasons
