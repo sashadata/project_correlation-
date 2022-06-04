@@ -11,14 +11,77 @@ library(rio)
 
 # corrplot: for visualizing correlation matrices
 # magrittr: for pipes
-# pacman: for loading/unloading packages
 # rio: for importing data
 # tidyverse: for so many reasons
 
 # LOAD AND PREPARE DATA ####################################
 
 # Save Google Correlate variables
-df <- import("fileC.csv") %>%
+df <- import("fileC.csv") 
+
+#### using decsribe function obtain quick overview on the dataset: frequency, proportion and missing 
+#### variables called Parent, Race, and English have missing values
+library(Hmisc)
+describe(df)
+
+
+### get % of missing values for English variable
+### 29% missing data for English variable. If this variable to be included 
+### for further analysis there should be strategy applied to deal with this issue. 
+
+table(df$English)*100/1187
+
+### Crosstable ####
+
+library(crosstable)
+library(dplyr)
+
+### what is the % of those who did not complete the program? 
+
+crosstable(df, c(Gender), by=Dropout, total="column") %>% 
+  as_flextable(keep_id=FALSE)
+
+### result: 234 or 19.7% dropout
+### 193 were females (20% of total number of all females), 
+### 41 were males (18% of all males)
+
+
+### create barplot to demostrate the number of dropout out by gender
+library(ggthemes)
+df %>% 
+  group_by(Gender, Dropout) %>%
+  summarise(total= n()) %>%
+  ggplot(aes(Dropout, total, fill=Dropout))+
+  geom_bar(stat = 'identity')+facet_wrap(~ Gender)+
+  theme_minimal()+
+  scale_fill_tableau()+
+  ylab("")+xlab("")+
+  ggtitle("Completed vs Dropout")
+  
+
+### undetify which age group and gender has the highest number of dropouts
+### create new age catergories for age variable
+
+
+df %>% 
+  mutate(Age_group=case_when(Age >=18 & Age <= 30 ~"18_to_30",
+                         Age >=31 & Age <= 40 ~ "31_to_40",
+                         Age >=41 & Age <= 50 ~ "41_to_50",
+                         Age >=51 & Age <= 60 ~ "51_to_60",
+                         Age >=61 & Age <= 70 ~ "61_to_70",
+                         Age >=71 & Age <= 80 ~ "71_to_80")) %>%
+  select(Age_group,Gender, Dropout) %>%
+  group_by(Gender, Age_group, Dropout) %>%
+  count() %>%
+  ggplot(aes(fill=Gender,x=Age_group,y= n))+geom_bar(position = "stack",
+                                                       stat = 'identity')
+
+
+
+                          
+
+
+df%>%
   as_tibble() %>%
   select(Age, Income, NofCases, Children, Services, Days) %>% 
   print()
