@@ -1,4 +1,5 @@
-# Title:    Computing correlations
+# Title: Explonatary Data Alanysis 
+### Get to know data you have in the dataset
 
 
 # INSTALL AND LOAD PACKAGES ################################
@@ -17,7 +18,7 @@ library(rio)
 # LOAD AND PREPARE DATA ####################################
 
 # Save Google Correlate variables
-df <- import("fileC.csv") 
+df <- import("dataeda.csv") 
 
 #### using decsribe function obtain quick overview on the dataset: frequency, proportion and missing 
 #### variables called Parent, Race, and English have missing values
@@ -59,9 +60,9 @@ df %>%
   ggtitle("Completed vs Dropout")
   
 
-### undetify which age group and gender has the highest number of dropouts
+### undetify age group and gender that have the high number of drops
 ### create new age catergories for age variable and identity the highest numbers including gender
-
+### use crosstable to look at the number and %
 
 df %>% 
   mutate(Age_group=case_when(Age >=18 & Age <= 30 ~"18_to_30",
@@ -75,47 +76,38 @@ df %>%
   crosstable(c(Age_group), by=c(Dropout,Gender), total="column") %>% 
   as_flextable(keep_id=FALSE)
 
-### Result: 3 age categories for females have high number of dropout
+### Result: 3 age categories for females have high number of drops
 ### females - 31_to_40 - 86 (16.04%), 41_to_50 -74(16.63%), 18_to_30- 27(23.28%)
-### males -
+### males - no obvious pattern observed 
 
 
-                          
-
-
-df%>%
+df<-df%>%
   as_tibble() %>%
   select(Age, Income, NofCases, Children, Services, Days) %>% 
   print()
 
-# CORRELATION MATRIX #######################################
+# CORRELATION MATRIX 
 
 # Correlation matrix for data frame
 df %>% cor()
 
 # Fewer decimal places
-df %>%
-  cor() %>%     # Compute correlations
-  round(2) %>%  # Round to 2 decimals
+df<-df %>%
+  cor() %>%     
+  round(2) %>%  
   print()
 
-# Visualize correlation matrix with corrplot() from
-# corrplot package
-df %>%
-  cor() %>%
-  corrplot(
-    type   = "upper",     # Matrix: full, upper, or lower
-    diag   = F,           # Remove diagonal
-    order  = "original",  # Order for labels
-    tl.col = "black",     # Font color
-    tl.srt = 45           # Label angle
-  )
-
-# SINGLE CORRELATION #######################################
-
+# Visualize correlation matrix with ggcorrplot
+library(ggcorrplot)
+ggcorrplot(df, lab=TRUE)
+           
 # Use cor.test() to test one pair of variables at a time.
 
+df %>% cor.test(Income, Age)
 
-df %$% cor.test(NofCases, Children)
+
+########################################################
+########################################################
+########################################################
 
 
