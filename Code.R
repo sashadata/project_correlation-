@@ -60,7 +60,7 @@ df %>%
   
 
 ### undetify which age group and gender has the highest number of dropouts
-### create new age catergories for age variable
+### create new age catergories for age variable and identity the highest numbers including gender
 
 
 df %>% 
@@ -72,10 +72,12 @@ df %>%
                          Age >=71 & Age <= 80 ~ "71_to_80")) %>%
   select(Age_group,Gender, Dropout) %>%
   group_by(Gender, Age_group, Dropout) %>%
-  count() %>%
-  ggplot(aes(fill=Gender,x=Age_group,y= n))+geom_bar(position = "stack",
-                                                       stat = 'identity')
+  crosstable(c(Age_group), by=c(Dropout,Gender), total="column") %>% 
+  as_flextable(keep_id=FALSE)
 
+### Result: 3 age categories for females have high number of dropout
+### females - 31_to_40 - 86 (16.04%), 41_to_50 -74(16.63%), 18_to_30- 27(23.28%)
+### males -
 
 
                           
