@@ -14,7 +14,6 @@ library(rio)
 
 # LOAD AND PREPARE DATA ####################################
 
-# Save Google Correlate variables
 df <- import("dataeda.csv") 
 
 #### using describe function obtain quick overview on the dataset: frequency, proportion and missing 
