@@ -8,7 +8,6 @@ library(magrittr)
 library(tidyverse)
 library(rio)
 
-
 # magrittr: for pipes
 # rio: for importing data
 # tidyverse: for so many reasons
@@ -18,12 +17,12 @@ library(rio)
 # Save Google Correlate variables
 df <- import("dataeda.csv") 
 
-#### using decsribe function obtain quick overview on the dataset: frequency, proportion and missing 
-#### variables called Parent, Race, and English have missing values
+#### using describe function obtain quick overview on the dataset: frequency, proportion and missing 
+
 library(Hmisc)
 describe(df)
 
-
+#### variables Parent, Race, and English have missing values
 ### get % of missing values for English variable
 ### 29% missing data for English variable. If this variable to be included 
 ### for further analysis there should be strategy applied to deal with this issue. 
@@ -35,7 +34,7 @@ table(df$English)*100/1187
 library(crosstable)
 library(dplyr)
 
-### what is the % of those who did not complete the program? 
+###  what is percentage of participants did not complete the program?
 
 crosstable(df, c(Gender), by=Dropout, total="column") %>% 
   as_flextable(keep_id=FALSE)
@@ -74,7 +73,7 @@ df %>%
   crosstable(c(Age_group), by=c(Dropout,Gender), total="column") %>% 
   as_flextable(keep_id=FALSE)
 
-### Result: 3 age categories for females have high number of drops
+### Result: Three age categories of females have high number of not completing the program
 ### females - 31_to_40 - 86 (16.04%), 41_to_50 -74(16.63%), 18_to_30- 27(23.28%)
 ### males - no obvious pattern observed 
 
@@ -98,7 +97,7 @@ df<-df %>%
 # Visualize correlation matrix with ggcorrplot
 library(ggcorrplot)
 ggcorrplot(df, lab=TRUE)
-           
+
 # Use cor.test() to test one pair of variables at a time.
 
 df %>% cor.test(Income, Age)

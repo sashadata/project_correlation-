@@ -1,0 +1,1188 @@
+Client_id,Parent,Race,Employed,Adults,Children,Income,NofCases,Age,Score,Days,English,Gender,Primary,Transportation,Services,Dropout
+79,Two parent family,Other,Yes,2,1,22320,3,49,75,267,Not Well,Female,Portuguese,Yes,80,No
+98,Two parent family,Refused,Yes,2,1,11752,3,38,155,267,,Female,Other,No,60,No
+119,Two parent family,Other,Yes,2,2,21397,4,41,175,7,,Female,Albanian,No,3,No
+147,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,21660,3,42,170,144,Not Well,Female,Spanish,Yes,20,Yes
+158,Single parent (mother figure only),White,No,1,3,0,4,40,180,233,,Female,English,Yes,12,No
+166,Two parent family,White,Yes,2,2,23400,4,36,415,247,Very Well,Female,English,Yes,80,No
+176,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,12437,2,34,190,276,Not Well,Female,Spanish,No,68,No
+207,Two parent family,Black or African American,Yes,2,3,18330,5,48,180,244,,Female,Tigrinya,Yes,210,No
+230,Two parent family,Black or African American,Yes,2,3,24079,5,46,180,281,Very Well,Female,Creole,Yes,177,No
+265,Two parent family,Asian,Yes,2,3,14896,5,63,180,267,Well,Male,Bengali,Yes,19,No
+278,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,11825,3,38,180,171,Not Well,Female,Spanish,Yes,44,No
+283,Two parent family,Black or African American,Yes,2,2,20761,4,40,290,43,,Male,Creole,No,33,No
+304,Two parent family,Black or African American,Yes,2,4,16000,6,64,150,260,,Male,Somali,Yes,13,No
+305,Single parent (mother figure only),Black or African American,Yes,1,3,36000,4,42,200,7,Very Well,Female,Somali,Yes,3,No
+325,Two parent family,Black or African American,No,2,2,0,4,47,90,262,Well,Male,Amharic,Yes,233,No
+326,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,48250,4,36,35,267,,Female,English,Yes,32,No
+327,Two parent family,Other,Yes,2,1,18200,3,42,235,339,Well,Female,Portuguese,No,276,No
+365,Two parent family,Black or African American,No,2,2,0,4,51,85,262,Well,Female,Other,Yes,126,No
+426,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,22880,4,37,280,339,Not Well,Female,Spanish,Yes,236,No
+440,Two parent family,Other,Yes,2,1,28028,3,55,175,267,Not Well,Female,Portuguese,Yes,152,No
+446,Single parent (mother figure only),Hispanic/Latino,Yes,2,1,20111,3,39,55,350,Very Well,Female,English,Yes,68,No
+462,Two parent family,Black or African American,Yes,2,3,14775,5,39,275,235,Very Well,Female,Amharic,Yes,6,Yes
+474,Single parent (mother figure only),White,Yes,1,3,11784,4,42,410,35,,Female,English,Yes,23,Yes
+490,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,12106,3,35,230,267,Well,Female,Spanish,Yes,108,No
+507,Single parent (mother figure only),Black or African American,Yes,1,4,44100,5,53,170,267,,Female,Somali,Yes,135,No
+517,Two parent family,Asian,Yes,2,2,17680,4,47,180,267,Very Well,Male,Punjabi,Yes,132,No
+524,Two parent family,Hispanic/Latino,Yes,2,2,19710,4,38,145,267,,Female,Spanish,No,40,No
+525,Two parent family,Black or African American,Yes,2,5,16808,7,45,235,174,,Female,Arabic,Yes,126,Yes
+528,Single parent (mother figure only) living w/partner,Hispanic/Latino,Yes,2,2,31800,4,37,240,276,,Female,Spanish,Yes,120,No
+535,Two parent family,Asian,Yes,2,3,34560,5,42,10,267,,Male,Chinese,Yes,218,No
+536,Single parent (father figure only) living w/partner,White,Yes,1,3,15600,4,38,540,147,Very Well,Female,Portuguese,Yes,80,No
+545,Two parent family,Black or African American,Yes,1,3,25234,4,52,45,256,,Female,Amharic,No,184,Yes
+562,Two parent family,Asian,Yes,2,1,13840,3,49,180,92,,Male,Other,No,68,Yes
+567,Single parent (mother figure only),Black or African American,Yes,2,2,21162,4,44,160,265,,Female,Other,Yes,232,No
+571,Two parent family,White,Yes,2,4,13914,6,58,385,41,Very Well,Male,English,Yes,34,No
+584,Single parent (mother figure only),White,Yes,1,3,11271,4,43,180,267,Not Well,Female,Spanish,No,240,No
+593,Single parent (mother figure only),Black or African American,Yes,2,2,21972,4,36,200,12,,Female,Creole,Yes,4,No
+598,Single parent (mother figure only),White,No,1,5,0,6,38,235,70,Very Well,Female,English,Yes,51,Yes
+601,Two parent family,Asian,Yes,2,2,23001,4,53,145,342,Well,Male,Bengali,Yes,80,No
+626,Two parent family,Asian,Yes,2,1,16000,3,45,175,161,Very Well,Female,Chinese,Yes,36,Yes
+645,Two parent family,Black or African American,No,2,4,0,6,46,155,267,,Female,Arabic,Yes,248,No
+677,Single parent (mother figure only),White,No,1,4,0,5,38,220,59,,Female,English,No,44,No
+682,Single parent (mother figure only),Other,Yes,1,1,14560,2,47,165,265,Very Well,Female,Arabic,Yes,225,No
+686,Two parent family,Black or African American,No,2,5,0,7,39,170,83,,Female,Somali,Yes,34,Yes
+689,Two parent family,Black or African American,Yes,2,2,20800,4,45,175,344,Well,Male,Amharic,Yes,211,No
+723,Two parent family,Hispanic/Latino,No,2,2,0,4,44,95,266,Not Well,Female,Spanish,No,185,No
+727,Two parent family,Black or African American,Yes,3,3,7648,6,51,220,243,,Male,Creole,Yes,204,No
+754,Two parent family,Bi-racial/Multi-racial,Yes,2,3,13250,5,45,195,7,,Female,English,Yes,4,No
+763,Two parent family,Hispanic/Latino,Yes,2,2,14190,4,32,230,281,Not Well,Female,Spanish,Yes,272,No
+764,Two parent family,,Yes,2,2,13520,4,41,250,92,,Female,Arabic,Yes,69,No
+772,Two parent family,Black or African American,Yes,2,2,24036,4,42,65,249,Very Well,Male,English,Yes,4,Yes
+795,Two parent family,Hispanic/Latino,Yes,2,2,15600,4,49,185,261,Not Well,Female,Spanish,Yes,204,No
+802,Two parent family,Black or African American,Yes,1,2,32627,3,34,190,249,Very Well,Female,English,Yes,56,No
+805,Two parent family,White,Yes,1,1,13000,2,35,195,32,Well,Female,Portuguese,No,20,No
+819,Two parent family,Asian,No,2,1,0,3,40,150,347,Well,Female,Nepali,Yes,100,Yes
+831,Two parent family,Asian,Yes,2,2,18999,4,36,185,7,Very Well,Male,Urdu,Yes,5,Yes
+835,Two parent family,Other,Yes,3,2,29487,5,50,10,262,,Male,Arabic,Yes,144,No
+858,Two parent family,Asian,No,2,2,0,4,47,105,7,Very Well,Female,Nepali,No,2,No
+880,Single parent (mother figure only),Black or African American,Yes,1,1,13277,2,32,280,90,,Female,English,Yes,25,No
+888,Single parent (mother figure only),Hispanic/Latino,Yes,2,2,32640,4,36,230,34,,Female,Spanish,No,24,Yes
+892,Single parent (mother figure only),Hispanic/Latino,Yes,2,2,20124,4,34,435,267,Not Well,Female,Spanish,Yes,241,No
+904,Two parent family,Hispanic/Latino,Yes,2,2,22970,4,37,195,267,Not At All,Female,Spanish,Yes,176,No
+915,Two parent family,Black or African American,Yes,2,1,33000,3,45,165,12,Very Well,Male,Amharic,Yes,9,No
+936,Two parent family,White,Yes,2,2,42448,4,49,25,231,Well,Male,Arabic,Yes,189,No
+948,Single parent (mother figure only),Black or African American,Yes,1,1,34210,2,43,235,122,,Female,Amharic,Yes,44,Yes
+952,Two parent family,Other,Yes,2,3,19795,5,47,95,281,Not Well,Female,Portuguese,Yes,272,No
+965,Two parent family,White,Yes,2,2,22173,4,37,280,21,Well,Male,Arabic,Yes,17,No
+1007,Two parent family,Black or African American,Yes,1,3,19419,4,43,175,265,,Female,Creole,Yes,164,No
+1011,Two parent family,Hispanic/Latino,Yes,2,2,21409,4,38,95,267,Not Well,Female,Spanish,Yes,176,No
+1014,Two parent family,Black or African American,Yes,2,3,29554,5,36,90,266,,Female,Arabic,Yes,201,No
+1020,Two parent family,Other,Yes,2,2,21965,4,40,160,344,Well,Female,Arabic,Yes,216,No
+1022,Two parent family,Asian,Yes,2,1,18647,3,43,65,342,Very Well,Female,Nepali,Yes,243,No
+1059,Two parent family,Asian,Yes,2,1,44368,3,48,190,264,,Male,Gujarati,No,7,Yes
+1066,Single parent (mother figure only),White,No,2,3,0,5,35,385,265,,Female,English,Yes,194,No
+1074,Single parent (mother figure only),Asian,Yes,1,2,38400,3,36,185,7,Very Well,Female,Hindi,Yes,2,Yes
+1087,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,28329,2,37,85,266,,Female,Spanish,Yes,243,No
+1096,Two parent family,Asian,Yes,2,2,22880,4,50,175,265,Very Well,Male,Nepali,Yes,220,No
+1100,Two parent family,Asian,Yes,2,2,32232,4,38,105,199,Well,Female,Mandarin,Yes,80,Yes
+1116,Single parent (mother figure only),White,Yes,1,2,28904,3,41,195,247,,Female,English,No,67,Yes
+1118,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,20065,4,39,165,265,Not Well,Female,Spanish,Yes,184,No
+1129,Two parent family,Asian,Yes,2,1,24040,3,42,10,202,,Male,Nepali,No,40,No
+1134,Two parent family,Black or African American,Yes,2,3,30914,5,43,85,266,,Female,Somali,Yes,216,No
+1142,Two parent family,Hispanic/Latino,Yes,2,1,10920,3,45,200,324,,Female,Spanish,Yes,24,No
+1148,Two parent family,White,No,2,3,0,5,34,265,84,Not At All,Female,Spanish,Yes,52,Yes
+1153,Single parent (mother figure only),Asian,No,2,2,0,4,46,115,267,,Female,Urdu,Yes,163,No
+1156,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,46041,2,33,215,324,,Female,English,Yes,19,No
+1160,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,27884,4,44,205,324,,Female,English,Yes,90,No
+1162,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,18002,2,33,85,91,,Female,Spanish,Yes,57,Yes
+1174,Single parent (mother figure only),Other,No,1,2,0,3,39,800,13,Very Well,Female,Portuguese,Yes,5,No
+1175,Two parent family,Hispanic/Latino,No,5,4,0,9,50,80,262,Not Well,Female,Spanish,Yes,248,No
+1180,Two parent family,Asian,Yes,2,2,57709,4,45,180,265,Very Well,Male,Other,Yes,135,No
+1195,Single parent (mother figure only),Hispanic/Latino,No,1,3,0,4,40,335,281,,Female,Spanish,Yes,168,No
+1205,Single parent (mother figure only),White,Yes,1,3,31200,4,40,210,324,,Female,English,No,42,No
+1211,Single parent (mother figure only),Black or African American,Yes,1,1,17977,2,36,65,246,,Female,Amharic,No,1,Yes
+1218,Two parent family,Black or African American,Yes,2,2,18720,4,40,260,267,Well,Male,Other,No,104,No
+1219,Two parent family,Other,Yes,2,4,20800,6,38,200,267,Not At All,Female,Portuguese,Yes,204,No
+1220,Two parent family,Other,Yes,2,2,18694,4,39,155,265,Not Well,Female,Portuguese,Yes,240,No
+1224,Two parent family,White,Yes,2,1,15600,3,40,165,252,,Male,Portuguese,No,13,Yes
+1227,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,41764,3,38,695,92,,Female,Spanish,No,75,Yes
+1231,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,14011,3,45,170,21,,Female,Spanish,Yes,13,No
+1233,Two parent family,White,Yes,2,3,36000,5,47,210,255,Well,Female,Arabic,Yes,216,No
+1235,Single parent (mother figure only),Asian,Yes,1,2,15189,3,48,165,255,,Female,Urdu,Yes,27,Yes
+1241,Two parent family,White,Yes,2,2,28932,4,34,240,267,Very Well,Female,English,Yes,156,No
+1244,Two parent family,Other,Yes,2,1,12148,3,51,200,35,,Male,Hindi,Yes,29,Yes
+1250,Two parent family,White,No,2,3,0,5,39,265,146,,Female,Arabic,Yes,128,No
+1255,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,19136,2,31,80,267,,Female,Spanish,Yes,297,No
+1264,Two parent family,Hispanic/Latino,Yes,2,2,22964,4,44,175,267,Well,Male,Spanish,Yes,68,No
+1265,Two parent family,Other,Yes,2,2,21036,4,38,155,342,,Female,Portuguese,No,172,No
+1269,Two parent family,White,Yes,1,1,14560,2,44,205,261,,Female,Portuguese,Yes,80,No
+1274,Two parent family,Asian,Yes,2,1,26075,3,42,85,232,,Male,Nepali,Yes,7,No
+1277,Two parent family,Other,Yes,2,2,41541,4,44,195,43,,Female,Arabic,Yes,40,No
+1293,Two parent family,Black or African American,Yes,2,3,24388,5,36,195,154,,Male,English,Yes,24,Yes
+1300,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,37128,4,47,35,48,,Female,Spanish,Yes,15,No
+1301,Two parent family,Black or African American,No,2,2,0,4,56,190,265,Well,Male,Creole,Yes,236,No
+1305,Two parent family,Asian,Yes,2,2,22352,4,44,195,277,,Female,Vietnamese,Yes,66,Yes
+1306,Two parent family,Asian,Yes,3,2,36725,5,36,10,108,,Female,Bengali,Yes,82,No
+1319,Two parent family,Hispanic/Latino,Yes,2,1,16120,3,45,165,242,,Female,Spanish,Yes,24,Yes
+1331,Two parent family,White,No,3,3,0,6,36,10,339,Well,Female,Portuguese,Yes,296,No
+1337,Two parent family,Black or African American,Yes,2,2,21560,4,57,185,286,,Male,Arabic,No,9,Yes
+1338,Two parent family,Black or African American,Yes,2,3,10608,5,44,65,344,Very Well,Female,Amharic,Yes,212,No
+1339,Single parent (mother figure only),White,Yes,1,1,35334,2,38,205,324,,Female,Portuguese,Yes,17,No
+1341,Single parent (mother figure only),Black or African American,Yes,1,1,20794,2,41,65,7,,Female,English,Yes,5,No
+1342,Single parent (mother figure only),Black or African American,No,1,2,0,3,34,200,74,,Female,English,Yes,17,Yes
+1347,Two parent family,White,Yes,2,1,34560,3,37,85,282,,Female,English,Yes,7,No
+1348,Two parent family,White,No,2,2,0,4,43,195,265,,Male,English,Yes,224,No
+1350,Two parent family,Black or African American,No,2,3,0,5,47,25,266,,Female,Creole,Yes,16,No
+1353,Two parent family,White,Yes,2,2,23036,4,45,175,267,,Female,English,Yes,236,No
+1356,Two parent family,White,Yes,2,2,23510,4,53,185,224,,Male,Portuguese,Yes,196,No
+1358,Two parent family,Hispanic/Latino,Yes,2,1,18486,3,40,155,246,,Female,Spanish,Yes,2,Yes
+1362,Single parent (mother figure only),Black or African American,Yes,1,1,17821,2,43,75,169,,Female,Creole,Yes,23,No
+1365,Single parent (mother figure only),Black or African American,Yes,1,2,15825,3,46,320,324,,Female,Creole,Yes,54,No
+1369,Two parent family,Other,Yes,2,2,31384,4,48,55,265,,Male,Portuguese,Yes,228,No
+1388,Two parent family,Black or African American,Yes,2,2,40296,4,54,75,155,,Female,Arabic,Yes,2,No
+1394,Single parent (mother figure only),Black or African American,Yes,1,2,15349,3,31,185,339,Very Well,Female,English,Yes,172,No
+1399,Two parent family,Black or African American,Yes,2,2,13466,4,53,180,267,Very Well,Male,Somali,Yes,88,No
+1400,Single parent (mother figure only),Asian,Yes,1,2,35433,3,44,165,262,,Female,Punjabi,Yes,2,Yes
+1403,Two parent family,Asian,Yes,2,1,17443,3,38,265,39,Very Well,Female,Other,No,21,No
+1405,Two parent family,Other,Yes,2,1,23396,3,51,145,281,Well,Female,Arabic,Yes,72,Yes
+1413,Two parent family,Black or African American,Yes,2,3,36542,5,47,180,7,Well,Female,Amharic,Yes,4,Yes
+1414,Single parent (father figure only),White,Yes,1,3,21861,4,55,365,324,Very Well,Male,English,Yes,54,No
+1416,Two parent family,Hispanic/Latino,Yes,2,2,18135,4,41,150,267,,Female,Spanish,Yes,260,No
+1425,Two parent family,Hispanic/Latino,No,2,3,0,5,46,295,21,Not Well,Female,Spanish,Yes,4,No
+1429,Single parent (mother figure only),White,Yes,1,1,28528,2,31,450,187,,Female,English,Yes,56,Yes
+1430,Two parent family,White,Yes,2,1,18200,3,30,175,206,Very Well,Female,English,Yes,4,Yes
+1432,Single parent (mother figure only),Black or African American,No,1,3,0,4,47,270,7,,Female,Creole,Yes,1,No
+1433,Two parent family,White,Yes,2,2,14248,4,45,160,12,Very Well,Male,Other,Yes,11,No
+1435,Single parent (mother figure only),Black or African American,No,1,1,0,2,33,200,22,Very Well,Female,English,Yes,9,No
+1443,Two parent family,Hispanic/Latino,Yes,2,1,16217,3,31,225,151,Not Well,Male,Spanish,Yes,98,No
+1444,Two parent family,Other,Yes,2,2,27436,4,45,190,101,,Female,Albanian,Yes,84,Yes
+1446,Two parent family,Asian,Yes,2,2,14678,4,44,65,267,,Male,Punjabi,Yes,256,No
+1454,Two parent family,Other,Yes,2,2,18200,4,44,195,228,Not Well,Male,Portuguese,Yes,6,No
+1461,Single parent (mother figure only),Black or African American,Yes,1,1,47446,2,37,195,128,Not Well,Female,Amharic,Yes,10,No
+1462,Two parent family,Asian,Yes,2,2,19616,4,51,105,220,,Male,Bengali,Yes,205,Yes
+1470,Two parent family,Other,Yes,2,1,36400,3,53,145,222,Very Well,Male,Portuguese,Yes,14,Yes
+1475,Two parent family,Asian,Yes,2,2,54792,4,51,85,253,Very Well,Male,Nepali,Yes,13,No
+1478,Two parent family,Hispanic/Latino,Yes,2,1,16296,3,42,105,276,,Male,Spanish,No,288,No
+1481,Two parent family,Hispanic/Latino,No,2,2,0,4,41,95,325,,Female,Spanish,Yes,216,Yes
+1484,Two parent family,Asian,Yes,2,1,21600,3,43,85,186,Very Well,Female,Chinese,Yes,12,No
+1485,Two parent family,Hispanic/Latino,Yes,2,2,35200,4,49,190,55,Not At All,Female,Spanish,No,4,No
+1491,Single parent (mother figure only),White,Yes,1,2,27462,3,35,100,266,,Female,Portuguese,Yes,260,No
+1493,Two parent family,Black or African American,Yes,1,3,13187,4,47,155,349,,Female,Somali,Yes,176,Yes
+1494,Single parent (mother figure only),Hispanic/Latino,No,1,1,0,2,47,350,252,Very Well,Female,English,Yes,1,Yes
+1495,Single parent (mother figure only),Bi-racial/Multi-racial,No,1,1,0,2,47,300,198,Very Well,Female,English,Yes,4,Yes
+1498,Two parent family,Other,Yes,2,1,10400,3,42,180,266,Not Well,Female,Portuguese,Yes,10,Yes
+1503,Two parent family,Black or African American,Yes,2,2,27602,4,51,155,262,Very Well,Male,Tigrinya,Yes,1,Yes
+1504,Two parent family,Other,Yes,2,2,20958,4,38,185,281,Very Well,Male,Portuguese,Yes,19,Yes
+1505,Two parent family,Hispanic/Latino,Yes,2,1,19864,3,42,230,324,Very Well,Female,English,Yes,39,No
+1506,Single parent (mother figure only),Black or African American,No,1,2,0,3,34,160,262,,Female,English,No,1,Yes
+1510,Single parent (mother figure only),White,Yes,1,2,15600,3,50,380,262,Well,Female,Portuguese,Yes,28,No
+1511,Two parent family,Black or African American,No,2,2,0,4,39,170,342,,Female,Creole,Yes,268,No
+1512,Single parent (mother figure only),Hispanic/Latino,No,1,2,0,3,34,190,41,Not Well,Female,Spanish,Yes,10,No
+1515,Two parent family,Other,No,2,2,0,4,49,250,7,,Male,Arabic,Yes,8,Yes
+1523,Single parent (mother figure only),White,No,1,1,0,2,44,480,52,Very Well,Female,English,Yes,19,Yes
+1524,Two parent family,Asian,Yes,2,1,22975,3,41,45,248,,Male,Nepali,Yes,232,No
+1525,Two parent family,Other,Yes,2,2,13260,4,48,210,286,Well,Female,Portuguese,Yes,39,Yes
+1530,Two parent family,Hispanic/Latino,Yes,2,3,29200,5,48,195,17,Very Well,Male,Spanish,Yes,8,No
+1531,Two parent family,Hispanic/Latino,Yes,2,2,16900,4,43,220,123,Not At All,Male,Spanish,Yes,8,Yes
+1539,Two parent family,Asian,No,2,3,0,5,40,180,266,,Female,Bengali,Yes,160,No
+1542,Two parent family,Asian,Yes,2,2,59979,4,49,55,167,Very Well,Male,English,Yes,17,No
+1543,Two parent family,White,Yes,2,2,35677,4,34,95,324,Very Well,Female,English,Yes,9,No
+1547,Two parent family,White,Yes,2,2,47980,4,37,55,7,Well,Male,Arabic,Yes,1,No
+1553,Two parent family,Hispanic/Latino,Yes,2,2,28080,4,30,455,152,,Female,Spanish,Yes,119,Yes
+1556,Two parent family,Hispanic/Latino,Yes,2,4,22339,6,46,240,265,,Female,Spanish,Yes,216,No
+1557,Two parent family,Hispanic/Latino,No,2,4,0,6,34,200,265,Very Well,Male,English,Yes,31,No
+1558,Two parent family,Other,Yes,2,1,11642,3,41,160,188,Not Well,Male,Portuguese,Yes,15,No
+1559,Single parent (mother figure only),Hispanic/Latino,No,1,2,0,3,41,170,260,Very Well,Female,English,Yes,21,No
+1560,Single parent (mother figure only),Hispanic/Latino,No,1,1,0,2,31,220,267,Not At All,Female,Spanish,Yes,37,No
+1562,Two parent family,Asian,Yes,2,2,43701,4,39,35,247,Very Well,Male,Chinese,Yes,3,No
+1563,Single parent (mother figure only),White,No,1,2,0,3,30,180,28,Very Well,Female,English,Yes,21,No
+1564,Two parent family,White,Yes,2,1,0,3,67,465,267,Very Well,Male,English,Yes,46,No
+1565,Single parent (mother figure only),White,Yes,1,1,12939,2,40,145,123,Very Well,Female,English,Yes,2,Yes
+1566,Two parent family,Asian,No,2,1,0,3,39,170,88,Well,Male,Hindi,Yes,28,No
+1567,Two parent family,Asian,Yes,2,1,45813,3,42,210,213,,Male,Other,Yes,28,No
+1568,Single parent (mother figure only),White,No,1,1,0,2,48,370,255,Very Well,Female,Portuguese,Yes,17,No
+1569,Two parent family,Black or African American,Yes,2,1,35757,3,39,75,308,Very Well,Male,Creole,Yes,6,No
+1570,Two parent family,Bi-racial/Multi-racial,Yes,2,2,0,4,43,220,33,Well,Female,Portuguese,No,21,Yes
+1571,Two parent family,White,Yes,2,3,36668,5,47,55,255,Very Well,Male,English,Yes,2,No
+1572,Single parent (mother figure only),,Yes,1,4,34800,5,42,295,255,,Female,,Yes,24,No
+1573,Single parent (mother figure only),Black or African American,No,1,1,0,2,36,180,253,Very Well,Female,English,Yes,8,No
+1574,Single parent (mother figure only),Bi-racial/Multi-racial,Yes,1,1,35112,2,32,190,339,Very Well,Female,English,Yes,204,No
+1575,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,14040,2,34,305,71,Not At All,Female,Spanish,Yes,4,No
+1577,Two parent family,Black or African American,Yes,2,1,0,3,35,270,194,,Female,Creole,Yes,11,Yes
+1578,Two parent family,Asian,Yes,2,2,13774,4,44,170,238,Very Well,Male,Urdu,Yes,2,No
+1579,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,18448,4,34,185,120,Well,Female,English,Yes,28,Yes
+1580,Two parent family,Asian,No,2,1,0,3,44,220,230,Not Well,Male,Nepali,Yes,37,No
+1581,Single parent (mother figure only),Black or African American,Yes,1,3,35010,4,54,45,198,Well,Female,Arabic,Yes,1,Yes
+1582,Two parent family,Black or African American,Yes,2,3,24194,5,47,155,77,Not Well,Female,Amharic,Yes,2,No
+1583,Two parent family,Asian,Yes,2,1,16458,3,40,185,267,Well,Male,Bengali,Yes,19,No
+1586,Two parent family,Black or African American,Yes,2,2,21215,4,52,145,133,Very Well,Male,Tigrinya,Yes,9,No
+1588,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,39441,2,34,190,275,Not At All,Female,Spanish,Yes,29,No
+1591,Single parent (mother figure only),Black or African American,No,1,2,0,3,36,200,140,Very Well,Female,English,Yes,1,Yes
+1592,Single parent (mother figure only),Black or African American,No,1,2,0,3,34,200,285,Well,Female,English,Yes,10,Yes
+1593,Two parent family,Asian,No,3,3,0,6,39,85,79,Well,Female,Bengali,Yes,33,No
+1594,Single parent (mother figure only),Black or African American,No,1,1,0,2,35,260,192,Well,Female,Creole,Yes,24,No
+1595,Two parent family,Hispanic/Latino,Yes,2,1,18720,3,40,195,147,Well,Female,English,Yes,11,No
+1596,Two parent family,Other,Yes,2,1,16640,3,35,205,85,Not Well,Female,Nepali,Yes,7,No
+1600,Two parent family,Asian,Yes,2,2,27680,4,42,95,267,Not Well,Female,Nepali,Yes,10,No
+1602,Two parent family,Asian,Yes,1,1,51000,2,40,65,267,Very Well,Male,Punjabi,Yes,72,No
+1604,Single parent (father figure only),Hispanic/Latino,No,1,1,0,2,43,220,133,Well,Male,Spanish,Yes,18,No
+1605,Two parent family,White,No,2,1,0,3,66,290,108,Very Well,Female,English,No,7,No
+1607,Two parent family,Black or African American,Yes,2,1,23636,3,38,115,43,Very Well,Male,Amharic,Yes,2,No
+1608,Two parent family,Hispanic/Latino,Yes,2,1,48743,3,43,205,267,Well,Male,Spanish,No,31,No
+1611,Two parent family,Asian,Yes,2,2,22000,4,49,195,345,Very Well,Male,Nepali,Yes,24,Yes
+1612,Two parent family,Asian,Yes,4,3,15730,7,50,280,77,Very Well,Male,Bengali,Yes,1,No
+1614,Single parent (mother figure only) living w/partner,Other,Yes,1,2,16640,3,41,185,267,Well,Female,Portuguese,Yes,16,No
+1615,Two parent family,Hispanic/Latino,No,2,3,0,5,28,420,342,,Female,English,Yes,267,No
+1617,Two parent family,Hispanic/Latino,No,2,5,0,7,39,230,267,Very Well,Female,Spanish,Yes,71,No
+1620,Single parent (mother figure only),Hispanic/Latino,Yes,1,4,35253,5,43,180,80,Very Well,Female,English,Yes,1,Yes
+1621,Two parent family,Asian,Yes,2,2,15285,4,48,160,265,,Male,Bengali,No,286,No
+1622,Two parent family,Black or African American,Yes,2,2,29459,4,43,10,267,,Male,Amharic,Yes,136,No
+1629,Two parent family,White,Yes,1,4,37800,5,41,220,81,,Female,English,Yes,75,No
+1631,Single parent (mother figure only),Other,Yes,1,2,27800,3,44,185,266,Very Well,Female,Portuguese,Yes,8,Yes
+1632,Two parent family,Black or African American,Yes,2,2,41195,4,45,65,267,Very Well,Female,English,Yes,13,No
+1635,Two parent family,Asian,Yes,2,1,30160,3,45,65,297,Well,Male,Nepali,No,9,Yes
+1636,Two parent family,Asian,Yes,2,3,23467,5,48,175,267,Well,Male,Nepali,Yes,19,No
+1637,Two parent family,Asian,No,3,2,0,5,39,95,266,Well,Male,Gujarati,Yes,240,No
+1638,Single parent (mother figure only),Black or African American,Yes,1,1,0,2,34,250,256,Very Well,Female,English,No,39,No
+1640,Two parent family,Asian,Yes,2,1,18186,3,43,80,267,Very Well,Male,Bengali,Yes,11,No
+1646,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,31546,2,34,55,267,Very Well,Female,English,Yes,13,Yes
+1650,Two parent family,Asian,No,2,1,0,3,38,20,249,Very Well,Female,Gujarati,Yes,216,No
+1651,Two parent family,Other,Yes,2,1,18506,3,43,175,267,Very Well,Male,Portuguese,Yes,19,No
+1652,Two parent family,White,Yes,2,2,0,4,38,240,77,Well,Female,Arabic,Yes,65,No
+1653,Single parent (mother figure only),Hispanic/Latino,Yes,3,2,46364,5,38,190,267,Not At All,Female,Spanish,Yes,176,No
+1654,Two parent family,Other,Yes,2,1,10800,3,38,210,267,Not Well,Male,Portuguese,Yes,14,No
+1656,Single parent (mother figure only),Asian,Yes,1,2,44000,3,44,45,267,Very Well,Female,Other,Yes,268,No
+1657,Two parent family,Other,Yes,2,1,28600,3,45,105,267,Not Well,Female,Portuguese,Yes,21,No
+1658,Single parent (mother figure only),Black or African American,Yes,1,2,14907,3,43,155,216,Well,Female,Amharic,Yes,9,Yes
+1659,Two parent family,Asian,No,2,1,0,3,35,20,262,Well,Female,Bengali,Yes,124,No
+1660,Single parent (mother figure only),Hispanic/Latino,No,1,1,0,2,43,145,241,Not At All,Female,Spanish,Yes,23,Yes
+1661,Two parent family,Asian,Yes,2,1,23504,3,48,95,344,Well,Male,Nepali,Yes,26,No
+1662,Two parent family,Asian,Yes,2,1,34402,3,45,75,267,Well,Female,Punjabi,No,68,No
+1665,Single parent (mother figure only),Black or African American,Yes,1,2,12970,3,39,95,267,,Female,Amharic,Yes,228,No
+1666,Single parent (mother figure only),Black or African American,Yes,1,1,39998,2,42,65,288,Very Well,Female,English,Yes,1,Yes
+1667,Single parent (mother figure only),Black or African American,No,1,1,0,2,32,600,95,,Female,English,Yes,28,Yes
+1668,Two parent family,Asian,Yes,2,1,45477,3,42,65,267,Well,Male,Nepali,Yes,16,Yes
+1669,Single parent (mother figure only),Black or African American,Yes,1,2,15804,3,45,155,273,Not Well,Female,Creole,Yes,2,Yes
+1670,Two parent family,Asian,Yes,2,2,29120,4,37,85,267,Very Well,Male,Gujarati,Yes,56,No
+1671,Two parent family,Asian,Yes,2,1,20000,3,50,205,267,Very Well,Male,Nepali,Yes,32,No
+1672,Two parent family,Hispanic/Latino,Yes,2,1,17350,3,31,175,267,Not Well,Male,Spanish,Yes,45,No
+1673,Single parent (mother figure only),Asian,No,1,1,0,2,42,220,265,,Female,Bengali,Yes,36,No
+1674,Two parent family,Other,Yes,2,1,18200,3,33,270,267,Not Well,Male,Portuguese,Yes,23,No
+1675,Single parent (mother figure only),Hispanic/Latino,Yes,1,4,21654,5,48,350,120,Not At All,Female,Spanish,Yes,17,Yes
+1678,Single parent (mother figure only),Black or African American,Yes,1,4,43493,5,42,165,344,Very Well,Female,Creole,Yes,16,No
+1679,Single parent (mother figure only),Black or African American,No,1,1,0,2,33,200,111,Very Well,Female,English,No,7,Yes
+1680,Two parent family,Black or African American,Yes,2,3,18000,5,43,220,267,Very Well,Male,Somali,Yes,48,No
+1681,Two parent family,Black or African American,Yes,2,2,37932,4,40,95,276,Well,Female,Amharic,Yes,8,No
+1682,Single parent (mother figure only),White,No,1,3,0,4,35,210,332,,Female,English,Yes,67,No
+1683,Two parent family,Asian,Yes,2,2,17050,4,37,125,267,,Male,Gujarati,Yes,221,No
+1686,Single parent (mother figure only),Hispanic/Latino,Yes,1,4,17310,5,47,275,343,Well,Female,Spanish,Yes,24,Yes
+1688,Two parent family,Hispanic/Latino,Yes,2,1,18246,3,37,195,267,Not At All,Male,Spanish,Yes,29,No
+1689,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,20045,3,40,160,267,,Female,Spanish,Yes,88,No
+1690,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,21916,2,32,75,267,Not Well,Female,Spanish,Yes,152,No
+1691,Two parent family,Asian,Yes,2,3,43875,5,44,65,344,Very Well,Female,Bengali,Yes,31,No
+1692,Single parent (mother figure only),Other,Yes,1,1,15600,2,48,310,281,Not Well,Female,Portuguese,Yes,43,No
+1697,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,15045,2,35,195,267,Not Well,Female,Spanish,Yes,66,No
+1699,Two parent family,Black or African American,Yes,2,4,39413,6,51,95,281,Not Well,Female,Creole,Yes,40,No
+1700,Two parent family,Black or African American,No,2,1,0,3,33,210,116,Very Well,Female,English,Yes,12,Yes
+1702,Two parent family,White,Yes,3,3,33807,6,42,10,198,,Female,Creole,Yes,264,No
+1704,Single parent (mother figure only),White,Yes,1,1,5200,2,35,390,7,Very Well,Female,English,No,3,No
+1706,Single parent (mother figure only),Black or African American,Yes,1,2,28755,3,47,75,344,Well,Female,Creole,No,15,No
+1708,Two parent family,Asian,Yes,2,2,27225,4,35,95,345,Very Well,Male,Other,Yes,15,Yes
+1709,Single parent (mother figure only),Asian,Yes,1,2,10400,3,39,150,269,Not Well,Female,Bengali,Yes,19,Yes
+1711,Two parent family,Hispanic/Latino,No,2,2,0,4,36,145,265,,Female,Spanish,Yes,208,No
+1712,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,8528,2,29,190,267,Not Well,Female,Spanish,Yes,22,No
+1714,Two parent family,White,Yes,3,2,46500,5,44,85,267,,Female,English,Yes,288,No
+1715,Two parent family,Asian,Yes,2,1,16780,3,34,205,267,,Female,Nepali,Yes,88,No
+1716,Two parent family,Asian,Yes,2,1,16248,3,40,175,237,Very Well,Male,English,No,3,Yes
+1717,Single parent (mother figure only),Black or African American,Yes,1,4,12084,5,51,380,11,Very Well,Female,Arabic,Yes,2,No
+1718,Single parent (father figure only),Hispanic/Latino,Yes,1,1,10617,2,38,180,344,Very Well,Male,Spanish,Yes,14,No
+1722,Single parent (mother figure only),Hispanic/Latino,No,1,2,0,3,27,310,169,Well,Female,Spanish,Yes,13,Yes
+1723,Two parent family,Black or African American,Yes,2,2,17998,4,42,80,266,,Male,Amharic,Yes,112,No
+1725,Two parent family,Other,Yes,2,1,24172,3,55,105,267,Not Well,Male,Portuguese,Yes,15,No
+1726,Single parent (mother figure only),Other,Yes,1,1,15800,2,41,185,267,Well,Female,Portuguese,Yes,23,No
+1727,Two parent family,White,Yes,2,2,38330,4,47,260,8,Very Well,Male,English,Yes,6,No
+1728,Two parent family,Hispanic/Latino,Yes,2,2,13000,4,34,200,267,Not Well,Male,Spanish,Yes,31,No
+1729,Two parent family,Asian,Yes,2,2,60176,4,30,130,344,Very Well,Male,Nepali,Yes,44,No
+1730,Two parent family,Asian,Yes,2,1,18146,3,42,165,267,Well,Female,Bengali,No,8,Yes
+1731,Two parent family,Hispanic/Latino,Yes,2,1,0,3,45,95,25,Very Well,Female,Spanish,No,2,No
+1732,Two parent family,Asian,Yes,2,1,13000,3,43,180,59,Not Well,Male,Bengali,Yes,5,No
+1733,Two parent family,White,Yes,2,2,47980,4,36,75,267,,Male,Arabic,Yes,29,No
+1734,Single parent (mother figure only),White,No,1,2,0,3,35,510,258,Very Well,Female,English,Yes,4,Yes
+1736,Single parent (mother figure only),White,Yes,1,1,0,2,36,500,266,Very Well,Female,English,Yes,18,Yes
+1737,Single parent (mother figure only),Hispanic/Latino,No,2,1,0,3,29,165,241,,Male,Spanish,No,168,No
+1738,Two parent family,White,Yes,2,4,30662,6,59,195,350,Very Well,Male,Arabic,Yes,13,Yes
+1739,Two parent family,White,Yes,2,2,26239,4,38,65,267,,Female,French,Yes,162,No
+1740,Two parent family,Hispanic/Latino,Yes,2,2,19420,4,46,195,247,Well,Male,Spanish,Yes,8,No
+1742,Two parent family,Black or African American,Yes,2,3,26815,5,47,280,275,Very Well,Female,English,Yes,10,No
+1743,Two parent family,Black or African American,Yes,3,5,0,8,46,315,277,Very Well,Female,Creole,Yes,18,No
+1744,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,18616,2,30,105,267,Not At All,Female,Spanish,Yes,30,No
+1745,Single parent (mother figure only),Black or African American,Yes,1,4,19240,5,46,180,261,Very Well,Female,Creole,Yes,8,No
+1746,Two parent family,Asian,Yes,2,1,14800,3,35,180,344,Very Well,Male,Hindi,Yes,10,No
+1747,Single parent (mother figure only),Hispanic/Latino,No,1,7,0,8,51,105,148,Well,Female,English,Yes,127,Yes
+1748,Two parent family,Asian,Yes,2,1,14560,3,48,190,267,Very Well,Male,Nepali,Yes,10,No
+1749,Single parent (mother figure only),Black or African American,Yes,1,2,0,3,55,190,174,Very Well,Female,English,Yes,128,Yes
+1750,Two parent family,Asian,Yes,2,1,23484,3,38,95,14,Very Well,Male,Hindi,No,4,No
+1751,Two parent family,Asian,Yes,2,2,14334,4,38,160,344,Very Well,Female,Nepali,Yes,13,No
+1752,Single parent (mother figure only),Hispanic/Latino,No,1,1,0,2,34,395,273,,Female,Spanish,No,9,No
+1753,Two parent family,Other,Yes,2,2,18840,4,37,185,267,Well,Female,English,Yes,24,No
+1754,Two parent family,Hispanic/Latino,Yes,2,1,22351,3,50,200,267,Very Well,Male,English,Yes,12,No
+1755,Two parent family,Other,Yes,2,1,17992,3,38,145,14,Not Well,Female,Portuguese,Yes,2,No
+1756,Two parent family,White,Yes,2,2,18497,4,46,155,191,,Male,Arabic,Yes,52,No
+1757,Single parent (mother figure only),Black or African American,Yes,1,3,31208,4,50,55,256,Very Well,Female,Amharic,No,4,No
+1759,Single parent (mother figure only),Black or African American,Yes,1,3,5508,4,37,405,60,Very Well,Female,English,Yes,40,No
+1760,Two parent family,Hispanic/Latino,Yes,2,2,41600,4,35,295,7,Not At All,Female,Spanish,No,6,No
+1761,Single parent (mother figure only),Hispanic/Latino,No,1,1,0,2,31,405,104,Well,Female,Spanish,Yes,7,No
+1762,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,10400,2,29,295,76,,Female,Spanish,Yes,15,No
+1763,Two parent family,Asian,Yes,2,1,21600,3,48,105,240,Well,Male,Mandarin,Yes,10,No
+1764,Two parent family,Black or African American,Yes,2,3,19248,5,42,295,267,Very Well,Male,English,Yes,78,No
+1765,Two parent family,Black or African American,Yes,1,3,19848,4,44,285,74,,Female,Spanish,Yes,40,No
+1766,Two parent family,Other,Yes,2,1,20000,3,38,205,267,,Male,Portuguese,Yes,128,No
+1767,Two parent family,White,No,2,3,0,5,34,210,46,,Female,English,Yes,32,No
+1770,Single parent (mother figure only),White,Yes,1,1,41020,2,33,170,160,Very Well,Female,English,Yes,3,Yes
+1771,Two parent family,Asian,Yes,2,1,21289,3,38,95,267,Very Well,Female,Nepali,Yes,34,No
+1773,Two parent family,Hispanic/Latino,Yes,2,2,23974,4,33,125,136,Very Well,Female,Spanish,No,19,No
+1774,Two parent family,Other,Yes,2,1,12281,3,32,85,18,,Female,Portuguese,Yes,13,No
+1775,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,13728,2,44,185,220,Not Well,Female,Spanish,Yes,14,No
+1776,Single parent (mother figure only),White,Yes,1,1,13460,2,52,215,90,Very Well,Female,English,Yes,15,No
+1777,Two parent family,Asian,Yes,2,2,19581,4,35,80,267,Very Well,Male,Bengali,Yes,60,No
+1778,Two parent family,Hispanic/Latino,Yes,2,2,14497,4,36,200,336,Well,Male,Spanish,Yes,8,Yes
+1780,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,23000,2,29,170,120,Very Well,Female,English,Yes,3,No
+1784,Two parent family,Black or African American,Yes,2,2,25765,4,53,65,344,Well,Male,Arabic,Yes,17,No
+1785,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,7800,3,54,195,267,Not Well,Female,Spanish,Yes,19,No
+1786,Two parent family,Hispanic/Latino,Yes,2,1,11925,3,40,160,347,Well,Female,Spanish,Yes,32,Yes
+1787,Two parent family,Asian,Yes,2,2,19165,4,37,165,267,Very Well,Female,Punjabi,Yes,108,No
+1788,Two parent family,Other,Yes,2,1,13000,3,48,170,265,Not Well,Female,Portuguese,Yes,56,No
+1789,Two parent family,Hispanic/Latino,No,2,1,0,3,33,220,169,Not At All,Female,Spanish,Yes,13,No
+1790,Two parent family,Hispanic/Latino,Yes,2,1,44908,3,29,75,49,Very Well,Male,Spanish,Yes,11,Yes
+1791,Two parent family,White,Yes,3,1,29120,4,46,65,263,Very Well,Female,English,Yes,28,No
+1793,Two parent family,Asian,Yes,2,1,5674,3,41,290,267,Well,Male,Bengali,Yes,10,No
+1794,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,29224,2,32,65,281,Very Well,Female,English,Yes,148,No
+1795,Two parent family,White,Yes,2,4,0,6,43,210,7,Very Well,Female,Portuguese,No,3,Yes
+1796,Single parent (mother figure only),Black or African American,Yes,1,2,27116,3,37,505,281,Very Well,Female,English,Yes,22,No
+1797,Two parent family,Black or African American,Yes,2,5,19500,7,52,160,249,Very Well,Female,Creole,Yes,29,No
+1798,Two parent family,Asian,Yes,2,1,20400,3,42,95,150,Very Well,Male,Urdu,Yes,8,No
+1800,Two parent family,White,Yes,2,2,17322,4,47,255,344,Very Well,Female,English,Yes,18,No
+1801,Single parent (mother figure only),Black or African American,Yes,1,2,34368,3,42,160,85,Well,Female,Amharic,Yes,48,No
+1804,Single parent (mother figure only),Black or African American,Yes,1,2,32400,3,38,190,85,,Female,Amharic,Yes,16,Yes
+1807,Single parent (mother figure only),White,Yes,1,2,0,3,49,395,55,Well,Female,Arabic,Yes,8,No
+1808,Two parent family,White,Yes,2,1,33873,3,40,655,127,Very Well,Male,English,Yes,6,No
+1809,Single parent (mother figure only),Black or African American,Yes,1,1,13530,2,49,150,265,Well,Female,Creole,Yes,52,No
+1810,Two parent family,Asian,Yes,2,1,39419,3,52,195,202,Very Well,Female,Nepali,Yes,7,No
+1811,Two parent family,Asian,No,2,2,0,4,38,80,276,Well,Male,Nepali,Yes,136,No
+1814,Two parent family,White,Yes,2,1,36940,3,47,160,265,Very Well,Male,Arabic,Yes,76,No
+1815,Two parent family,Hispanic/Latino,Yes,2,2,21228,4,47,205,267,Not Well,Female,Spanish,Yes,18,No
+1816,Two parent family,Asian,Yes,2,2,18369,4,48,195,267,Very Well,Male,Bengali,Yes,144,No
+1817,Two parent family,Asian,Yes,2,2,15231,4,38,190,122,,Male,Bengali,Yes,108,No
+1820,Two parent family,Hispanic/Latino,Yes,2,1,8374,3,29,155,267,Well,Female,Spanish,Yes,9,Yes
+1821,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,10427,4,43,175,344,Very Well,Female,English,No,19,No
+1823,Single parent (mother figure only),White,Yes,1,2,22050,3,30,90,276,Not Well,Female,Spanish,Yes,132,No
+1825,Single parent (mother figure only),Hispanic/Latino,No,1,3,0,4,35,515,11,Very Well,Female,English,No,9,Yes
+1826,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,23630,4,43,185,281,Not Well,Female,Spanish,Yes,104,No
+1827,Two parent family,Asian,Yes,2,2,7680,4,39,195,54,Well,Female,Bengali,Yes,1,Yes
+1828,Single parent (mother figure only),White,Yes,1,1,0,2,34,230,133,Well,Female,Portuguese,Yes,20,No
+1830,Single parent (mother figure only),,Yes,1,4,17850,5,47,190,267,,Female,,Yes,14,No
+1831,Two parent family,Hispanic/Latino,Yes,1,4,33707,5,42,185,267,,Female,Spanish,Yes,196,No
+1832,Two parent family,Hispanic/Latino,Yes,2,2,0,4,38,200,267,Not At All,Female,Spanish,Yes,5,No
+1835,Single parent (mother figure only),,No,2,3,0,5,34,185,7,,Female,,No,2,Yes
+1837,Two parent family,White,Yes,2,1,24000,3,40,65,265,Not Well,Male,Portuguese,Yes,7,No
+1838,Two parent family,Hispanic/Latino,Yes,2,1,23789,3,32,105,265,Not Well,Female,Spanish,Yes,108,No
+1839,Single parent (mother figure only),Hispanic/Latino,Yes,2,1,24932,3,29,190,267,Very Well,Female,Spanish,Yes,6,No
+1840,Single parent (mother figure only),Hispanic/Latino,Yes,1,4,19158,5,45,180,171,Very Well,Female,Spanish,Yes,8,Yes
+1841,Two parent family,Hispanic/Latino,No,2,2,0,4,41,200,267,Not Well,Female,Spanish,Yes,25,No
+1842,Two parent family,Hispanic/Latino,No,2,2,0,4,29,210,288,Very Well,Female,Spanish,Yes,9,No
+1843,Two parent family,Asian,Yes,2,1,25894,3,52,85,265,Very Well,Male,Gujarati,Yes,11,No
+1844,Single parent (mother figure only),White,No,1,1,0,2,31,380,151,Very Well,Female,Arabic,Yes,10,Yes
+1845,Two parent family,Other,Yes,2,1,21500,3,44,55,260,Well,Male,Portuguese,Yes,15,Yes
+1846,Two parent family,Hispanic/Latino,Yes,2,1,28291,3,26,225,45,Not Well,Female,Spanish,Yes,10,No
+1847,Single parent (mother figure only),Black or African American,Yes,1,2,29438,3,46,185,267,Very Well,Female,English,Yes,7,No
+1848,Two parent family,,Yes,2,1,15525,3,42,175,267,,Male,,Yes,9,No
+1851,Two parent family,Hispanic/Latino,Yes,3,3,18448,6,37,85,275,Not At All,Female,Spanish,Yes,284,No
+1853,Single parent (mother figure only),Black or African American,Yes,2,1,20888,3,41,65,336,Very Well,Female,Amharic,Yes,1,Yes
+1856,Single parent (mother figure only),Black or African American,No,2,1,0,3,30,155,304,Very Well,Female,Creole,Yes,12,Yes
+1858,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,32144,3,34,190,281,Not Well,Female,Spanish,Yes,32,No
+1859,Two parent family,Hispanic/Latino,Yes,2,1,18200,3,34,235,267,Not Well,Male,Spanish,Yes,284,No
+1860,Two parent family,White,Yes,2,4,10277,6,37,210,265,Very Well,Female,English,Yes,52,No
+1861,Two parent family,Black or African American,Yes,2,2,16060,4,43,40,7,,Male,Amharic,Yes,6,No
+1862,Single parent (mother figure only),White,Yes,1,2,28220,3,50,235,267,Not Well,Female,Portuguese,Yes,14,No
+1863,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,22295,4,48,175,267,Not Well,Female,Spanish,No,16,No
+1864,Two parent family,Black or African American,Yes,2,1,20495,3,47,65,35,Well,Male,Somali,Yes,3,No
+1865,Single parent (mother figure only),Black or African American,Yes,1,1,14281,2,30,80,83,Very Well,Female,Creole,Yes,7,Yes
+1866,Single parent (mother figure only),Black or African American,No,1,2,0,3,29,190,342,,Female,English,Yes,109,No
+1867,Two parent family,White,Yes,2,2,31200,4,53,65,267,Not Well,Male,Portuguese,Yes,11,No
+1869,Single parent (mother figure only),Hispanic/Latino,Yes,2,2,28354,4,51,155,265,Not Well,Female,Spanish,Yes,22,No
+1871,Single parent (mother figure only),Black or African American,Yes,1,2,16631,3,48,145,265,Not Well,Female,Amharic,Yes,15,No
+1873,Two parent family,White,Yes,2,2,25307,4,44,160,287,Very Well,Female,English,Yes,242,No
+1874,Two parent family,White,Yes,2,1,12396,3,37,150,267,Well,Female,Portuguese,Yes,3,No
+1875,Single parent (mother figure only),Black or African American,No,1,2,0,3,30,235,265,Very Well,Female,English,Yes,148,No
+1876,Two parent family,Black or African American,Yes,2,2,15862,4,41,160,350,Well,Female,Amharic,Yes,48,Yes
+1877,Two parent family,Asian,No,2,2,0,4,37,45,342,Well,Male,Nepali,Yes,14,No
+1878,Two parent family,Asian,Yes,2,2,22768,4,41,145,265,Very Well,Male,Nepali,Yes,21,No
+1880,Two parent family,Asian,Yes,2,3,25366,5,36,80,139,Not Well,Female,Bengali,Yes,76,No
+1882,Single parent (mother figure only),Black or African American,Yes,1,2,26758,3,40,145,342,Very Well,Female,Amharic,Yes,48,No
+1942,Two parent family,White,No,2,1,0,3,46,200,262,Not Well,Female,Spanish,No,272,No
+2039,Single parent (mother figure only),Black or African American,No,1,1,0,2,29,160,265,Very Well,Female,English,Yes,8,No
+2040,Single parent (mother figure only),Hispanic/Latino,Yes,3,3,32760,6,37,400,15,Not At All,Female,Spanish,No,11,No
+2044,Single parent (mother figure only),Black or African American,Yes,1,2,26208,3,34,65,167,Very Well,Female,Creole,Yes,84,No
+2045,Single parent (mother figure only),White,Yes,1,1,0,2,34,180,265,Very Well,Female,English,Yes,7,No
+2046,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,23409,2,45,55,267,Not At All,Female,Spanish,Yes,15,No
+2047,Single parent (mother figure only),White,Yes,1,1,19739,2,29,375,66,,Female,English,Yes,12,Yes
+2048,Two parent family,Asian,Yes,2,1,10524,3,43,160,140,Well,Male,Bengali,Yes,25,No
+2050,Two parent family,Black or African American,Yes,2,4,42474,6,46,45,267,Very Well,Male,English,Yes,13,No
+2051,Single parent (mother figure only),Black or African American,Yes,1,1,0,2,34,160,267,Very Well,Female,English,Yes,37,No
+2053,Two parent family,Bi-racial/Multi-racial,No,2,2,0,4,47,145,265,,Male,Amharic,Yes,84,No
+2054,Single parent (mother figure only),Black or African American,No,1,1,0,2,33,180,7,Very Well,Female,English,Yes,2,No
+2055,Single parent (mother figure only),Hispanic/Latino,Yes,4,3,26827,7,42,160,267,Not Well,Female,Spanish,Yes,30,No
+2056,Two parent family,Black or African American,Yes,3,3,26756,6,33,90,276,,Female,Haitian Creole,Yes,242,No
+2065,Two parent family,Asian,Yes,2,1,20839,3,46,10,7,Very Well,Male,Nepali,Yes,2,Yes
+2066,Two parent family,Hispanic/Latino,No,1,3,0,4,34,180,275,Not At All,Female,Spanish,Yes,296,No
+2067,Two parent family,Hispanic/Latino,Yes,2,3,26222,5,47,380,12,Not At All,Male,Spanish,Yes,6,No
+2069,Single parent (mother figure only),Black or African American,Yes,1,3,31339,4,40,85,344,Very Well,Female,English,Yes,6,No
+2071,Two parent family,,No,2,1,0,3,44,55,267,,Female,,No,13,No
+2072,Single parent (mother figure only),Hispanic/Latino,No,1,1,0,2,32,375,265,Very Well,Female,Spanish,Yes,36,No
+2073,Two parent family,Other,Yes,2,2,20800,4,37,10,262,,Male,Portuguese,Yes,100,No
+2075,Single parent (mother figure only),Black or African American,Yes,1,3,10795,4,38,165,267,Very Well,Female,Amharic,Yes,7,No
+2080,Single parent (mother figure only),White,Yes,4,2,45243,6,29,55,342,,Female,English,Yes,68,No
+2083,Single parent (mother figure only),,Yes,1,1,14982,2,34,155,345,,Female,,Yes,1,Yes
+2085,Single parent (mother figure only),Other,Yes,1,1,16800,2,39,295,281,Well,Female,Portuguese,Yes,21,No
+2086,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,29495,2,33,250,265,Very Well,Female,English,Yes,38,No
+2087,Two parent family,,Yes,2,2,27444,4,49,85,267,,Male,,Yes,3,No
+2091,Two parent family,Asian,Yes,2,2,11814,4,44,175,267,Well,Male,Nepali,Yes,10,No
+2092,Two parent family,Asian,No,1,1,0,2,30,80,259,Very Well,Male,Nepali,Yes,112,No
+2095,Two parent family,,Yes,2,1,16640,3,34,265,265,,Male,Spanish,No,33,No
+2114,Single parent (mother figure only),Hispanic/Latino,Yes,2,2,23677,4,42,390,342,Not Well,Female,Spanish,Yes,15,No
+2117,Two parent family,White,Yes,3,2,26777,5,43,80,8,Well,Female,Albanian,No,6,No
+2125,Single parent (mother figure only) living w/partner,Hispanic/Latino,No,1,1,0,2,33,170,267,Very Well,Female,English,Yes,18,No
+2126,Single parent (mother figure only),,Yes,1,2,15652,3,44,285,267,,Female,,No,6,No
+2128,Single parent (mother figure only),,Yes,1,1,12978,2,33,545,342,,Female,English,No,16,No
+2129,Single parent (mother figure only),Black or African American,No,1,1,0,2,41,170,342,Very Well,Female,Creole,Yes,18,No
+2131,Two parent family,Asian,No,2,1,0,3,38,150,349,Very Well,Male,Gujarati,Yes,9,Yes
+2143,Two parent family,,No,3,1,0,4,32,135,266,,Female,,No,42,No
+2144,Two parent family,White,Yes,2,1,5894,3,42,180,276,Very Well,Female,English,Yes,92,No
+2147,Two parent family,White,No,2,2,0,4,41,10,262,Well,Female,Portuguese,No,228,No
+2148,Single parent (mother figure only),Asian,Yes,1,2,18153,3,36,90,342,,Female,Nepali,Yes,15,No
+2152,Two parent family,Other,No,2,2,0,4,34,55,47,Very Well,Female,English,No,7,Yes
+2155,Two parent family,Black or African American,No,2,1,0,3,42,720,174,Very Well,Female,English,Yes,67,Yes
+2158,Single parent (mother figure only),Asian,No,1,1,0,2,31,605,291,,Female,Mandarin,Yes,12,Yes
+2162,Two parent family,Hispanic/Latino,Yes,2,2,35892,4,67,395,281,Very Well,Female,,Yes,48,No
+2165,Single parent (mother figure only),,No,1,1,0,2,32,85,266,,Female,,No,7,No
+2170,Single parent (mother figure only),Other,No,1,2,0,3,42,410,171,Not At All,Female,Cape Verdian Criolo,Yes,4,No
+2174,Two parent family,,Yes,2,2,51548,4,34,45,265,,Female,Spanish,No,14,No
+2175,Two parent family,Asian,No,1,2,0,3,35,100,192,,Female,Gujarati,Yes,112,No
+2177,Single parent (mother figure only),,No,1,2,0,3,43,400,265,,Female,,No,40,No
+2179,Single parent (mother figure only),Black or African American,Yes,2,1,15178,3,48,185,267,Very Well,Female,Creole,Yes,5,No
+2180,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,18200,4,41,145,342,Very Well,Male,Spanish,Yes,27,No
+2181,Two parent family,Hispanic/Latino,No,2,1,0,3,25,220,267,,Female,English,Yes,36,No
+2183,Two parent family,Hispanic/Latino,Yes,2,3,42249,5,40,85,7,Very Well,Female,English,Yes,3,No
+2185,Two parent family,White,Yes,2,2,18851,4,36,145,255,Very Well,Female,Arabic,Yes,5,No
+2186,Single parent (mother figure only),,No,1,2,0,3,36,250,350,,Female,,No,12,Yes
+2188,Single parent (mother figure only),Black or African American,Yes,2,1,9583,3,49,90,267,,Female,Creole,No,12,No
+2190,Single parent (mother figure only),,Yes,1,1,18081,2,34,75,261,,Female,,No,13,No
+2192,Two parent family,Asian,Yes,4,2,15655,6,28,90,339,Not Well,Male,Nepali,No,44,No
+2197,Single parent (mother figure only),,No,1,2,0,3,52,200,263,,Female,,No,7,No
+2198,Single parent (mother figure only),,No,1,1,0,2,36,180,265,,Female,,No,9,No
+2199,Two parent family,Asian,Yes,2,1,22317,3,41,5,267,,Male,Nepali,No,22,No
+2200,Two parent family,Asian,Yes,3,2,25993,5,42,290,267,Well,Male,Punjabi,Yes,8,No
+2201,Two parent family,Asian,Yes,2,1,21455,3,41,65,350,,Male,Nepali,No,7,No
+2203,Two parent family,Black or African American,Yes,2,1,36361,3,38,65,267,,Female,Amharic,No,20,No
+2207,Single parent (mother figure only),,Yes,1,1,13768,2,35,310,255,,Female,,No,20,No
+2209,Two parent family,Other,Yes,2,2,26263,4,34,65,265,Not Well,Male,Spanish,No,9,No
+2211,Two parent family,White,Yes,2,3,0,5,40,210,255,,Female,Spanish,No,24,No
+2212,Two parent family,White,No,2,3,0,5,53,10,262,Not Well,Female,Spanish,No,116,No
+2213,Single parent (mother figure only),Black or African American,No,1,3,0,4,49,465,109,,Female,English,Yes,32,Yes
+2214,Single parent (mother figure only),,No,1,2,0,3,38,285,254,,Female,,No,7,No
+2224,Two parent family,Black or African American,Yes,2,3,19682,5,46,115,267,,Female,Creole,No,87,No
+2225,Two parent family,Asian,No,3,1,0,4,48,90,347,,Female,Urdu,No,1,Yes
+2226,Two parent family,Asian,Yes,2,2,30488,4,37,5,265,Well,Female,Hindi,No,11,No
+2232,Single parent (mother figure only),Black or African American,Yes,3,2,36405,5,32,55,336,Very Well,Female,English,Yes,92,Yes
+2234,Two parent family,Hispanic/Latino,No,2,1,0,3,39,120,267,Well,Female,Spanish,Yes,17,No
+2243,Two parent family,Black or African American,Yes,2,3,20507,5,41,150,188,Very Well,Male,Somali,Yes,12,Yes
+2245,Single parent (mother figure only),White,No,1,2,0,3,36,105,329,,Female,Spanish,No,16,No
+2246,Single parent (mother figure only),Other,Yes,2,2,10400,4,38,235,262,Not At All,Female,Spanish,No,236,No
+2247,,White,Yes,1,3,37119,4,41,40,336,,Female,Spanish,No,44,Yes
+2269,Single parent (mother figure only),Hispanic/Latino,Yes,2,2,7728,4,46,125,342,Not Well,Female,Spanish,Yes,280,No
+2270,Two parent family,,No,2,1,0,3,44,90,342,,Male,,No,15,No
+2271,Single parent (mother figure only),,Yes,1,1,23066,2,35,160,62,,Female,,No,4,No
+2279,Two parent family,Black or African American,Yes,2,3,26724,5,48,165,7,,Female,Creole,No,4,Yes
+2280,Single parent (mother figure only),Black or African American,Yes,2,3,11241,5,41,185,261,,Female,Creole,No,4,Yes
+2281,Two parent family,Black or African American,Yes,2,2,16270,4,48,115,7,Well,Male,Amharic,No,1,No
+2283,Two parent family,Black or African American,Yes,2,1,17945,3,33,90,342,Very Well,Female,English,Yes,57,No
+2286,Two parent family,Asian,Yes,2,2,16319,4,37,85,265,,Male,Nepali,No,31,No
+2287,Two parent family,White,Yes,2,2,0,4,35,575,266,Very Well,Female,English,No,72,No
+2288,Two parent family,Black or African American,Yes,2,2,18934,4,48,195,266,,Female,Creole,No,12,No
+2289,Single parent (mother figure only),Black or African American,No,2,3,0,5,41,180,267,Very Well,Female,Creole,No,33,No
+2295,Single parent (mother figure only),Hispanic/Latino,No,1,2,0,3,42,160,7,Well,Female,English,Yes,2,No
+2301,Single parent (mother figure only),White,No,1,1,0,2,28,390,195,,Female,Spanish,No,64,Yes
+2302,Two parent family,Asian,Yes,2,1,18895,3,26,155,151,Very Well,Female,English,Yes,3,No
+2319,Single parent (mother figure only),Black or African American,Yes,1,3,17063,4,49,160,347,Very Well,Female,English,Yes,4,Yes
+2323,Single parent (mother figure only),,Yes,1,1,12428,2,30,180,135,,Female,,No,11,No
+2328,Single parent (mother figure only),Hispanic/Latino,No,1,2,0,3,33,545,342,Very Well,Female,English,Yes,16,No
+2329,Two parent family,Asian,No,2,1,0,3,33,200,255,Well,Female,Punjabi,Yes,192,No
+2330,Two parent family,Native Hawaiian/Pacific Islander,Yes,2,1,7800,3,33,100,126,,Male,Urdu,No,6,No
+2331,Two parent family,Asian,No,2,1,0,3,37,25,243,,Female,Punjabi,No,52,No
+2332,Single parent (mother figure only),Asian,Yes,1,3,31385,4,42,10,316,Well,Female,Bengali,Yes,6,Yes
+2333,Two parent family,Asian,No,2,2,0,4,38,135,211,Not Well,Female,Nepali,Yes,100,No
+2334,Two parent family,Hispanic/Latino,Yes,2,1,15393,3,26,130,266,Not Well,Female,Spanish,Yes,32,No
+2336,Two parent family,Asian,No,2,2,0,4,40,90,262,Well,Female,Gujarati,Yes,140,No
+2337,Two parent family,Asian,Yes,2,2,29970,4,51,65,267,,Female,Punjabi,No,8,No
+2338,Two parent family,,Yes,2,3,26000,5,42,80,265,,Female,,No,56,No
+2342,Two parent family,Black or African American,No,2,2,0,4,48,265,266,Very Well,Male,Tigrinya,Yes,48,No
+2344,Single parent (mother figure only),Black or African American,No,1,1,0,2,31,360,245,Very Well,Female,English,Yes,9,No
+2345,Two parent family,Black or African American,No,2,2,0,4,30,45,24,Well,Female,Amharic,Yes,8,No
+2348,Single parent (mother figure only),Black or African American,Yes,1,1,26599,2,42,90,350,Well,Female,Creole,Yes,2,Yes
+2355,Two parent family,Asian,No,2,1,0,3,39,120,247,Well,Female,Hindi,Yes,13,No
+2365,Single parent (mother figure only),Black or African American,No,1,1,0,2,31,325,266,Not Well,Female,Arabic,Yes,86,No
+2366,Single parent (mother figure only),Bi-racial/Multi-racial,Yes,1,1,14167,2,27,90,267,Very Well,Female,English,Yes,36,No
+2374,Two parent family,White,Yes,2,1,14508,3,32,115,267,Well,Female,Portuguese,Yes,136,No
+2376,Single parent (mother figure only),White,Yes,2,1,29500,3,39,235,33,Well,Female,Portuguese,Yes,26,No
+2384,Two parent family,White,No,2,3,0,5,39,90,35,,Female,Creole,No,28,Yes
+2388,Single parent (mother figure only),Black or African American,No,1,1,0,2,39,615,342,Not Well,Female,Creole,Yes,14,No
+2389,Single parent (mother figure only),Black or African American,Yes,2,1,17855,3,42,145,348,Very Well,Female,Creole,Yes,2,Yes
+2397,Two parent family,Asian,Yes,2,1,12883,3,45,115,267,Well,Female,Chinese,Yes,9,No
+2410,Two parent family,White,Yes,3,2,26000,5,36,10,267,,Female,Spanish,Yes,76,No
+2412,Single parent (father figure only),Hispanic/Latino,Yes,1,1,19136,2,34,75,105,,Male,,Yes,6,No
+2414,Single parent (mother figure only),Hispanic/Latino,Yes,2,2,17341,4,45,125,265,Well,Female,Spanish,Yes,6,No
+2417,Two parent family,Black or African American,Yes,2,2,20891,4,40,80,335,,Male,Amharic,Yes,28,Yes
+2418,Single parent (mother figure only),Black or African American,No,1,2,0,3,44,195,342,Well,Female,Creole,No,39,No
+2421,Two parent family,White,Yes,2,1,14400,3,32,85,188,Well,Female,Portuguese,Yes,5,No
+2425,Single parent (mother figure only),Hispanic/Latino,No,1,2,0,3,32,405,219,Well,Female,Spanish,Yes,268,Yes
+2429,Two parent family,Asian,Yes,2,2,18360,4,58,80,32,Very Well,Male,Bengali,Yes,3,No
+2430,Single parent (mother figure only),Asian,Yes,1,3,23026,4,39,275,267,Very Well,Female,English,Yes,15,No
+2432,Single parent (mother figure only),White,Yes,2,4,0,6,49,180,7,,Female,Spanish,Yes,4,Yes
+2433,Single parent (mother figure only),White,No,1,2,0,3,50,130,266,Not Well,Female,Portuguese,Yes,11,No
+2436,Two parent family,Hispanic/Latino,Yes,2,3,17162,5,37,115,266,Not Well,Female,Spanish,Yes,11,No
+2437,Single parent (mother figure only),Asian,Yes,3,2,13483,5,54,195,162,,Male,Bengali,Yes,68,Yes
+2438,Two parent family,White,No,2,2,0,4,37,10,262,Well,Female,Arabic,No,178,No
+2448,Single parent (mother figure only),Asian,No,2,2,0,4,29,145,256,Well,Female,Pashto,No,60,No
+2452,Single parent (mother figure only),White,Yes,3,1,28485,4,31,10,266,,Female,English,No,15,No
+2459,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,29304,2,33,160,243,Not Well,Female,Spanish,Yes,11,No
+2461,Single parent (mother figure only),White,Yes,2,1,19000,3,46,50,339,,Female,Portuguese,No,10,No
+2463,Single parent (father figure only),Hispanic/Latino,Yes,1,1,0,2,36,510,266,Not Well,Female,Spanish,Yes,17,No
+2465,Two parent family,Asian,Yes,2,2,37296,4,38,155,267,Not Well,Male,Nepali,Yes,8,No
+2466,Two parent family,Black or African American,Yes,2,1,15600,3,36,185,72,Well,Female,Arabic,No,10,Yes
+2467,Single parent (mother figure only),Black or African American,Yes,3,2,0,5,44,305,342,Well,Female,Creole,No,14,No
+2470,Two parent family,Asian,Yes,3,4,34814,7,49,175,256,Well,Female,Bengali,Yes,10,No
+2471,Two parent family,Hispanic/Latino,No,2,1,0,3,28,105,266,Not At All,Female,Spanish,Yes,15,No
+2473,Single parent (mother figure only),White,Yes,1,1,25131,2,32,90,267,Very Well,Female,English,Yes,5,No
+2475,Two parent family,Asian,Yes,3,2,28428,5,37,90,276,Very Well,Female,Hindi,No,168,No
+2476,Single parent (mother figure only),Hispanic/Latino,No,1,1,0,2,32,35,325,,Female,Spanish,No,1,Yes
+2478,Two parent family,,No,3,3,0,6,49,35,267,,Female,,No,17,No
+2479,Two parent family,Hispanic/Latino,Yes,2,2,14719,4,35,125,266,Not Well,Female,Spanish,Yes,7,No
+2482,Single parent (mother figure only),White,Yes,1,1,16373,2,33,65,219,,Female,English,Yes,41,No
+2483,Single parent (mother figure only),White,Yes,2,3,23806,5,36,65,266,,Female,Portuguese,Yes,24,No
+2484,Two parent family,White,Yes,3,1,30203,4,39,85,342,Very Well,Female,Portuguese,Yes,6,No
+2485,Single parent (mother figure only),Hispanic/Latino,No,1,2,0,3,33,445,347,Not Well,Female,Spanish,Yes,7,Yes
+2489,Single parent (mother figure only),Asian,Yes,1,1,19760,2,30,40,275,Well,Female,Nepali,No,84,No
+2493,Single parent (mother figure only),White,Yes,1,8,36192,9,41,460,275,Very Well,Female,Spanish,No,246,No
+2500,Single parent (father figure only),,Yes,1,1,23490,2,31,170,342,,Male,English,Yes,7,No
+2501,Single parent (mother figure only),White,Yes,1,2,18200,3,37,185,83,Well,Female,Portuguese,No,10,Yes
+2502,Two parent family,,No,2,1,0,3,38,290,133,,Female,,No,16,Yes
+2505,Two parent family,Other,No,2,2,0,4,45,190,83,Well,Female,Portuguese,Yes,32,Yes
+2509,Two parent family,White,Yes,3,2,26501,5,45,205,342,,Male,Spanish,No,8,No
+2512,Two parent family,Hispanic/Latino,Yes,2,2,23141,4,43,280,267,Not Well,Female,Spanish,Yes,80,No
+2513,Single parent (mother figure only),White,No,1,1,0,2,43,170,257,Very Well,Female,,Yes,1,Yes
+2514,Two parent family,Hispanic/Latino,Yes,2,1,23335,3,40,85,267,Not Well,Female,,Yes,13,No
+2516,Two parent family,Black or African American,Yes,2,2,23806,4,40,155,267,Not Well,Female,Amharic,Yes,6,No
+2526,Single parent (mother figure only),,No,2,2,0,4,28,165,347,,Female,,No,1,Yes
+2529,Single parent (mother figure only),White,Yes,1,1,10400,2,45,310,342,,Female,Portuguese,No,5,No
+2535,Single parent (mother figure only),,No,3,2,0,5,25,325,265,,Female,,No,7,No
+2536,Single parent (mother figure only),White,Yes,1,1,7867,2,30,185,342,,Female,Spanish,No,7,No
+2537,Two parent family,White,Yes,2,3,25088,5,47,40,265,Well,Male,Arabic,No,4,No
+2540,Single parent (mother figure only),,No,1,2,0,3,33,245,280,,Female,,No,6,No
+2542,Two parent family,Black or African American,Yes,2,3,16025,5,49,170,264,,Male,Amharic,No,6,No
+2543,Two parent family,Asian,No,2,1,0,3,33,170,62,Well,Female,Gujarati,No,4,No
+2545,Single parent (mother figure only),Other,Yes,1,2,15000,3,37,240,342,,Female,Portuguese,No,13,No
+2548,Two parent family,Asian,Yes,3,2,14622,5,47,230,115,,Male,Bengali,No,48,Yes
+2551,Two parent family,Other,Yes,3,3,17000,6,39,95,220,Well,Female,Spanish,No,184,No
+2552,Single parent (mother figure only),White,Yes,1,3,23207,4,37,225,36,,Female,English,No,24,Yes
+2553,Two parent family,Other,No,2,1,0,3,29,185,26,Very Well,Female,Portuguese,No,20,Yes
+2554,Two parent family,White,Yes,3,2,15600,5,29,85,339,Not Well,Female,Portuguese,No,207,No
+2556,Two parent family,White,Yes,2,1,22500,3,49,65,46,,Male,Spanish,No,2,No
+2560,Two parent family,Other,Yes,2,2,24583,4,31,75,243,Not Well,Female,Spanish,No,12,No
+2562,Two parent family,Other,Yes,3,1,28178,4,31,635,266,Not Well,Female,Spanish,No,51,No
+2572,Single parent (mother figure only),Other,Yes,1,1,15600,2,31,155,342,,Female,Portuguese,No,14,No
+2574,Two parent family,Asian,Yes,2,3,35000,5,51,65,267,,Male,Nepali,No,24,No
+2576,Single parent (mother figure only),White,Yes,2,2,10511,4,39,190,276,Very Well,Female,Spanish,No,254,No
+2577,Single parent (mother figure only),,No,1,2,0,3,35,420,68,,Female,,No,3,No
+2579,Single parent (mother figure only),White,Yes,2,2,26000,4,35,255,339,Very Well,Female,Portuguese,No,152,No
+2580,Single parent (mother figure only),Bi-racial/Multi-racial,Yes,1,4,23705,5,31,355,338,,Female,English,No,45,No
+2581,Single parent (mother figure only) living w/partner,White,Yes,1,1,15600,2,46,185,105,Well,Female,Portuguese,No,9,Yes
+2582,Single parent (mother figure only),White,Yes,2,2,28444,4,35,105,336,,Female,English,No,5,No
+2583,Single parent (mother figure only),Other,Yes,5,1,45490,6,47,135,54,,Female,Spanish,No,8,Yes
+2585,Single parent (mother figure only),Other,No,6,1,0,7,50,55,205,Not Well,Female,Other,No,8,Yes
+2587,Two parent family,Black or African American,Yes,2,2,17464,4,43,170,105,Well,Male,Amharic,No,7,Yes
+2589,Single parent (mother figure only),White,No,2,1,0,3,37,155,253,,Male,Portuguese,No,6,No
+2591,Single parent (mother figure only),,No,1,1,0,2,33,175,253,,Female,,No,9,No
+2593,Single parent (mother figure only),,No,2,2,0,4,34,105,243,,Female,,No,11,No
+2595,Two parent family,Bi-racial/Multi-racial,Yes,2,2,17577,4,49,150,254,Not Well,Female,Nepali,No,6,No
+2596,Two parent family,White,Yes,3,1,23400,4,44,155,235,Not Well,Female,Portuguese,No,10,No
+2597,Single parent (mother figure only),Other,No,2,2,0,4,38,330,339,,Female,Portuguese,No,108,No
+2599,Single parent (father figure only),Black or African American,No,1,2,0,3,49,300,234,Not At All,Male,Creole,No,6,No
+2601,Two parent family,Asian,Yes,2,2,10400,4,41,175,212,,Female,Nepali,No,17,No
+2607,Single parent (mother figure only),Black or African American,Yes,1,2,5736,3,38,635,8,,Female,Creole,No,2,Yes
+2618,Single parent (mother figure only),Other,Yes,1,2,23980,3,33,40,276,,Female,Spanish,No,10,No
+2626,Two parent family,White,Yes,2,2,59950,4,39,10,262,Very Well,Female,English,No,76,No
+2627,Single parent (mother figure only),Black or African American,No,1,1,0,2,64,140,122,Well,Female,English,No,3,No
+2628,Two parent family,White,Yes,2,1,48246,3,50,35,346,,Female,Spanish,No,1,Yes
+2629,Two parent family,Asian,No,2,1,0,3,45,155,208,Not Well,Female,Nepali,No,8,No
+2655,Two parent family,Other,No,2,2,0,4,27,140,349,Not At All,Female,Spanish,No,1,Yes
+2662,Single parent (mother figure only),Other,No,1,1,0,2,33,320,7,Not Well,Female,Spanish,No,2,No
+2664,Single parent (mother figure only),Asian,Yes,1,1,14028,2,32,80,275,Not Well,Female,Hindi,No,68,No
+2668,Single parent (mother figure only),Other,No,5,1,0,6,48,165,114,Very Well,Female,Spanish,Yes,3,No
+2675,Single parent (mother figure only),White,Yes,1,2,10692,3,39,275,198,Very Well,Female,Spanish,No,5,No
+2679,Two parent family,Black or African American,No,2,2,0,4,42,165,135,Well,Male,Amharic,No,4,No
+2680,Single parent (mother figure only),White,Yes,1,1,13555,2,34,80,309,Very Well,Female,English,No,20,No
+2682,Two parent family,White,No,2,2,0,4,37,140,7,Very Well,Female,English,No,6,No
+2684,Two parent family,Asian,Yes,2,1,13985,3,44,135,262,Not Well,Male,Gujarati,No,24,No
+2685,Two parent family,White,Yes,2,2,11676,4,36,155,179,Well,Male,Portuguese,No,5,No
+2686,Single parent (mother figure only),Black or African American,No,1,3,0,4,34,165,187,Well,Female,Tigrinya,No,3,No
+2689,Single parent (mother figure only),White,No,1,1,0,2,38,300,276,Well,Female,Portuguese,No,13,No
+2691,Single parent (mother figure only),Hispanic/Latino,Yes,3,2,21528,5,42,390,136,Not At All,Female,Spanish,No,32,No
+2694,Single parent (mother figure only),Black or African American,No,3,2,0,5,38,10,256,Not Well,Female,Amharic,No,76,No
+2704,Single parent (mother figure only),Other,No,1,2,0,3,26,715,93,Well,Female,Spanish,No,41,No
+2705,Single parent (mother figure only),White,Yes,2,1,20044,3,38,175,241,Very Well,Female,English,No,14,No
+2726,Two parent family,White,No,2,1,0,3,33,20,262,Not Well,Female,Spanish,No,43,No
+2729,Single parent (mother figure only),Black or African American,No,1,2,0,3,36,490,134,Not Well,Female,Amharic,No,7,No
+2730,Single parent (mother figure only),White,Yes,4,2,10561,6,45,275,276,Not Well,Female,Spanish,No,59,No
+2734,Single parent (father figure only),White,Yes,2,1,28392,3,31,380,69,Very Well,Male,English,No,20,Yes
+2736,Single parent (mother figure only),Black or African American,Yes,2,1,15900,3,43,285,365,Very Well,Female,Creole,No,8,Yes
+2741,Single parent (mother figure only),White,No,1,4,0,5,63,690,262,,Female,English,No,101,No
+2744,Two parent family,White,Yes,2,2,25048,4,33,75,335,Well,Female,Spanish,No,3,Yes
+2746,Two parent family,Black or African American,Yes,1,2,0,3,39,190,343,Well,Female,Amharic,No,40,Yes
+2747,Two parent family,Asian,Yes,2,3,18000,5,38,170,86,Well,Female,Indonesian,No,9,Yes
+2753,Two parent family,White,Yes,2,2,20800,4,54,90,342,Not Well,Male,Portuguese,No,1,Yes
+2758,Two parent family,Asian,Yes,4,2,12938,6,55,90,262,Well,Male,Bengali,No,14,No
+2759,Two parent family,Black or African American,No,3,2,0,5,38,220,191,Not Well,Female,Creole,No,7,No
+2761,Two parent family,Asian,Yes,2,1,9689,3,29,185,262,Well,Female,Gujarati,No,7,No
+2765,Two parent family,Other,No,1,2,0,3,43,90,275,Well,Female,Spanish,No,132,No
+2766,Two parent family,Asian,Yes,2,1,44611,3,33,35,265,Well,Female,Hindi,No,16,No
+2767,Single parent (mother figure only),White,Yes,2,2,43576,4,50,20,339,Very Well,Female,Portuguese,No,48,No
+2769,Two parent family,White,No,2,2,0,4,38,20,275,Very Well,Female,Portuguese,No,30,No
+2770,Single parent (mother figure only),Black or African American,Yes,1,2,5579,3,37,320,275,Very Well,Female,English,No,7,No
+2773,Single parent (mother figure only),White,No,1,1,0,2,34,555,226,Very Well,Female,English,No,29,Yes
+2782,Two parent family,Asian,Yes,2,2,50400,4,43,40,276,Well,Female,Somali,No,7,No
+2783,Two parent family,White,No,2,2,0,4,41,90,262,Very Well,Female,English,No,116,No
+2785,Single parent (mother figure only),White,Yes,1,1,14640,2,27,90,339,Well,Male,Portuguese,No,44,No
+2786,Two parent family,Asian,Yes,2,1,8800,3,38,170,276,Well,Female,Nepali,No,6,No
+2787,Two parent family,White,Yes,2,1,19324,3,34,90,262,Not At All,Female,Spanish,No,21,No
+2790,Two parent family,Bi-racial/Multi-racial,No,5,1,0,6,40,115,275,Not Well,Female,Spanish,No,6,No
+2791,Two parent family,Black or African American,No,2,2,0,4,30,10,169,Well,Female,Amharic,No,76,No
+2793,Two parent family,White,No,2,2,0,4,45,195,7,Not Well,Female,Portuguese,No,7,No
+2794,Two parent family,White,No,2,3,0,5,32,95,275,Very Well,Female,English,No,7,No
+2795,Single parent (mother figure only),Other,No,1,1,0,2,34,605,52,Very Well,Female,English,No,4,No
+2796,Two parent family,White,No,2,3,0,5,25,310,275,Well,Female,English,No,63,No
+2802,Two parent family,Other,No,2,2,0,4,31,180,276,Well,Female,Portuguese,No,10,No
+2806,Single parent (mother figure only),Black or African American,No,1,2,0,3,42,345,275,Very Well,Female,Creole,No,10,No
+2811,Two parent family,Other,Yes,2,1,22929,3,44,65,261,Well,Female,Spanish,No,2,Yes
+2812,Two parent family,Asian,No,2,1,0,3,38,180,262,Well,Female,Vietnamese,No,10,No
+2814,Two parent family,White,Yes,2,1,8359,3,52,30,339,Very Well,Female,English,No,37,No
+2815,Two parent family,Other,No,2,2,0,4,41,80,339,Well,Female,Portuguese,No,36,No
+2816,Two parent family,White,No,2,1,0,3,23,50,276,Very Well,Female,Spanish,No,31,No
+2819,Two parent family,Asian,Yes,2,2,34805,4,41,20,262,Well,Female,Nepali,No,25,No
+2820,Single parent (mother figure only),Asian,No,3,2,0,5,44,330,263,Well,Female,Hindi,No,128,No
+2821,Two parent family,White,No,2,2,0,4,35,90,275,Not Well,Female,Spanish,No,5,No
+2822,Single parent (mother figure only),White,Yes,1,1,16139,2,37,300,276,Very Well,Female,Portuguese,No,10,No
+2827,Two parent family,White,No,2,1,0,3,46,95,276,Not Well,Female,Portuguese,No,9,No
+2829,Two parent family,Asian,No,2,2,0,4,35,135,262,,Female,Hindi,No,108,No
+2830,Single parent (mother figure only),White,Yes,1,1,34628,2,29,550,7,Well,Female,Spanish,No,5,Yes
+2833,Single parent (mother figure only),Asian,Yes,1,2,14400,3,41,135,262,,Female,Gujarati,No,11,No
+2835,Two parent family,Black or African American,No,2,3,0,5,36,100,309,Not Well,Female,Arabic,No,11,No
+2836,Two parent family,White,Yes,2,2,16480,4,63,725,262,Very Well,Female,English,No,164,No
+2838,Two parent family,White,Yes,2,1,59084,3,36,40,275,Well,Female,Albanian,No,14,No
+2840,Two parent family,Asian,No,2,2,0,4,34,225,50,Well,Female,Nepali,No,6,No
+2841,Single parent (mother figure only),Black or African American,Yes,1,3,14802,4,37,85,309,Very Well,Female,Amharic,No,36,No
+2846,Two parent family,Black or African American,No,2,4,0,6,43,85,260,Well,Female,Somali,No,12,No
+2851,Two parent family,White,No,2,2,0,4,44,95,349,Very Well,Female,,No,1,Yes
+2853,Two parent family,Native Hawaiian/Pacific Islander,No,2,1,0,3,31,5,349,Not Well,Female,Spanish,No,1,Yes
+2855,Single parent (mother figure only),Black or African American,Yes,1,2,36000,3,52,140,276,Not Well,Female,Creole,No,9,No
+2856,Single parent (mother figure only),White,Yes,1,1,46558,2,28,10,339,Very Well,Female,Spanish,No,9,No
+2857,Single parent (mother figure only),Other,Yes,1,3,10336,4,38,185,276,Not Well,Female,Spanish,No,15,No
+2861,Two parent family,Black or African American,No,2,1,0,3,33,105,262,Well,Female,Arabic,No,156,No
+2862,Two parent family,White,Yes,2,1,24960,3,47,10,262,Not Well,Female,Portuguese,No,9,No
+2865,Two parent family,Other,Yes,2,1,8580,3,28,300,7,Not At All,Female,Spanish,No,5,No
+2867,Two parent family,Other,No,2,1,0,3,36,5,262,Well,Female,Arabic,No,45,No
+2868,Single parent (mother figure only),Other,Yes,1,1,15600,2,38,170,188,Not Well,Female,Portuguese,No,12,Yes
+2870,Two parent family,Asian,No,2,2,0,4,36,105,174,Well,Female,Bengali,No,5,Yes
+2871,Two parent family,Other,Yes,2,1,23192,3,32,125,275,Not At All,Female,Spanish,No,56,No
+2872,Single parent (mother figure only),Black or African American,No,1,1,0,2,44,185,252,Not Well,Female,Somali,No,8,Yes
+2875,Two parent family,White,No,2,1,0,3,37,85,262,Not Well,Female,Spanish,No,136,No
+2876,Two parent family,White,No,2,2,0,4,41,80,275,Well,Female,Spanish,No,35,No
+2881,Single parent (mother figure only) living w/partner,White,No,2,2,0,4,43,340,36,Well,Female,Arabic,No,21,Yes
+2882,Single parent (father figure only),White,No,1,1,0,2,32,105,84,,Male,Portuguese,No,7,Yes
+2883,Single parent (mother figure only),Other,Yes,1,2,19188,3,45,90,276,Not At All,Female,Spanish,No,17,No
+2884,Two parent family,White,No,2,2,0,4,41,90,276,Well,Female,Portuguese,No,6,No
+2886,Two parent family,White,No,2,1,0,3,44,10,275,Not Well,Female,Portuguese,No,24,No
+2891,Two parent family,Other,No,2,2,0,4,33,20,262,Not Well,Female,Spanish,No,23,No
+2894,Two parent family,White,Yes,2,2,19233,4,41,140,15,Not At All,Female,Spanish,No,11,Yes
+2895,Single parent (mother figure only),Other,Yes,2,2,19032,4,46,80,296,Not Well,Female,Spanish,No,1,Yes
+2899,Two parent family,White,Yes,2,1,19698,3,32,80,275,Not Well,Female,Portuguese,No,8,No
+2910,Two parent family,White,Yes,2,2,26463,4,39,185,342,Not Well,Male,Spanish,No,1,Yes
+2914,Two parent family,Black or African American,No,2,2,0,4,34,200,7,Very Well,Female,Somali,No,6,Yes
+2915,Single parent (mother figure only),White,No,1,1,0,2,34,540,211,Very Well,Female,English,No,44,Yes
+2916,Two parent family,Asian,Yes,2,2,15000,4,35,160,349,Very Well,Female,Gujarati,No,1,Yes
+2920,Single parent (mother figure only),White,No,1,1,0,2,29,210,280,Not At All,Female,Spanish,No,19,Yes
+2922,Two parent family,Asian,No,2,2,0,4,35,10,275,Well,Female,Nepali,No,9,No
+2923,Two parent family,Other,No,1,2,0,3,46,140,275,Not Well,Female,Spanish,No,12,No
+2925,Two parent family,White,No,2,2,0,4,35,100,262,Very Well,Female,Spanish,No,48,No
+2936,Two parent family,White,Yes,2,2,22100,4,33,80,339,Not Well,Female,Spanish,No,20,No
+2942,Two parent family,White,No,2,3,0,5,35,30,276,Not Well,Female,Spanish,No,44,No
+2944,Single parent (mother figure only),White,Yes,1,1,10400,2,29,95,275,Not At All,Female,Spanish,No,14,No
+2955,Single parent (mother figure only),Asian,No,1,2,0,3,41,185,139,Well,Female,Nepali,No,3,Yes
+2967,Single parent (mother figure only),White,Yes,1,1,29835,2,43,570,339,Very Well,Female,English,No,27,No
+2969,Two parent family,Asian,Yes,2,2,15340,4,41,150,90,Well,Female,Nepali,No,4,Yes
+2971,Two parent family,Black or African American,Yes,2,2,19708,4,31,80,311,Well,Female,Other,No,3,Yes
+2973,Single parent (mother figure only),Black or African American,No,2,3,0,5,47,145,262,Very Well,Female,English,No,17,No
+2975,Single parent (mother figure only) living w/partner,White,No,1,1,0,2,68,585,233,Very Well,Female,English,No,3,No
+2978,Single parent (mother figure only),Other,No,1,3,0,4,45,90,287,Well,Female,Spanish,No,2,Yes
+2981,Single parent (mother figure only),White,No,1,1,0,2,34,105,262,Very Well,Female,English,No,13,No
+2983,Two parent family,Other,No,2,1,0,3,39,40,275,Not Well,Female,Spanish,No,7,No
+2987,Single parent (mother figure only),Black or African American,No,2,1,0,3,48,390,349,Very Well,Female,Tigrinya,No,1,Yes
+2988,Single parent (mother figure only),White,Yes,2,2,29910,4,42,175,262,Not Well,Female,Spanish,No,29,No
+2989,Two parent family,Black or African American,No,2,2,0,4,34,80,275,Not Well,Female,Tigrinya,No,112,No
+2990,Single parent (mother figure only),Other,Yes,1,2,18200,3,29,85,339,Not Well,Female,Portuguese,No,120,No
+2991,Two parent family,White,Yes,2,3,10598,5,37,160,261,Very Well,Female,English,No,16,No
+2996,Two parent family,White,No,2,2,0,4,30,80,262,,Female,Spanish,No,164,No
+2997,Single parent (mother figure only),White,No,1,2,0,3,34,305,230,Not At All,Female,Spanish,No,9,No
+3000,Two parent family,Black or African American,No,2,1,0,3,34,190,339,Well,Female,Other,No,12,No
+3009,Single parent (mother figure only),White,Yes,2,2,28850,4,44,150,276,Well,Female,Portuguese,No,9,No
+3010,Two parent family,White,No,2,1,0,3,46,210,343,Very Well,Female,English,No,6,Yes
+3011,Two parent family,White,Yes,2,3,22152,5,41,80,276,Not At All,Female,Spanish,No,10,No
+3012,Single parent (mother figure only),Black or African American,Yes,2,1,36912,3,31,185,339,Very Well,Female,English,No,8,No
+3014,Two parent family,White,No,3,3,0,6,44,185,247,Not Well,Female,Portuguese,No,8,No
+3015,Two parent family,White,Yes,2,2,23400,4,33,155,275,Not Well,Female,Portuguese,No,5,No
+3017,Single parent (mother figure only),White,No,1,1,0,2,35,290,245,Very Well,Female,English,No,5,No
+3019,Single parent (mother figure only),Bi-racial/Multi-racial,Yes,2,1,38840,3,25,140,339,Very Well,Female,English,No,21,No
+3020,Two parent family,Black or African American,Yes,2,1,20241,3,43,75,224,Well,Female,Tigrinya,No,2,No
+3021,Single parent (mother figure only),White,Yes,4,1,14113,5,44,245,276,Not Well,Female,Spanish,No,54,No
+3024,Single parent (mother figure only),White,No,2,2,0,4,28,750,143,,Female,English,No,27,Yes
+3027,Single parent (mother figure only),Black or African American,Yes,1,2,24294,3,35,10,275,Very Well,Female,Somali,No,5,No
+3031,Two parent family,Black or African American,Yes,2,2,23817,4,39,175,161,Well,Female,Arabic,No,3,No
+3036,Two parent family,Black or African American,Yes,2,2,13501,4,35,180,92,Well,Female,Amharic,No,1,No
+3039,Two parent family,Asian,Yes,2,3,15990,5,42,85,53,Well,Female,Urdu,No,1,No
+3052,Single parent (mother figure only),Black or African American,Yes,1,3,28518,4,37,365,116,Very Well,Female,English,No,6,No
+3054,Two parent family,Black or African American,Yes,2,2,15444,4,39,150,198,Well,Female,Somali,No,10,No
+3059,Two parent family,White,No,2,2,0,4,42,475,99,Well,Female,Spanish,No,9,Yes
+3067,Single parent (mother figure only),White,Yes,3,1,23691,4,58,145,191,Well,Female,Portuguese,No,2,No
+3070,Two parent family,Asian,No,2,2,0,4,31,80,262,Well,Female,Bengali,No,12,No
+3074,Two parent family,White,No,2,1,0,3,36,90,262,Well,Female,Arabic,No,13,No
+3075,Two parent family,White,Yes,4,1,15860,5,47,85,339,Well,Female,Portuguese,No,20,No
+3076,Single parent (mother figure only),White,Yes,3,1,14437,4,49,85,339,Well,Female,Spanish,No,21,No
+3078,Two parent family,Black or African American,Yes,2,3,19300,5,38,85,262,,Female,Amharic,No,64,No
+3079,Two parent family,Asian,No,2,3,0,5,39,85,262,Not Well,Female,Nepali,No,68,No
+3080,Two parent family,Asian,Yes,3,2,27448,5,46,80,247,Well,Female,Nepali,No,10,No
+3084,Two parent family,Black or African American,No,3,2,0,5,48,100,262,Not Well,Female,Creole,No,17,No
+3085,Single parent (mother figure only),White,Yes,1,2,24104,3,38,400,25,Very Well,Female,English,No,5,No
+3086,Two parent family,White,No,1,3,0,4,32,540,340,Very Well,Female,English,No,3,Yes
+3087,Single parent (mother figure only),Black or African American,Yes,1,1,19968,2,26,145,7,Very Well,Female,English,No,1,No
+3088,Single parent (mother figure only),Black or African American,Yes,1,1,23062,2,44,95,262,Well,Female,Amharic,No,9,No
+3089,Two parent family,White,Yes,3,3,6552,6,39,275,148,Very Well,Female,English,No,20,No
+3090,Two parent family,White,Yes,2,2,24683,4,35,185,262,Not At All,Female,Spanish,No,49,No
+3091,Two parent family,White,Yes,2,3,15677,5,31,145,329,Well,Female,Spanish,No,13,No
+3093,Single parent (mother figure only),White,Yes,1,2,19760,3,26,390,106,Not At All,Female,Portuguese,No,2,Yes
+3095,Two parent family,White,Yes,4,1,35200,5,43,365,106,Not Well,Female,Spanish,No,8,No
+3101,Two parent family,Black or African American,Yes,3,3,26156,6,53,140,262,Not Well,Male,Creole,No,52,No
+3105,Two parent family,Asian,Yes,2,3,15444,5,32,85,262,Well,Female,Punjabi,No,52,No
+3109,Two parent family,Asian,No,2,1,0,3,29,85,262,Not Well,Female,Bengali,No,16,No
+3111,Two parent family,White,Yes,2,1,20336,3,26,90,262,Not At All,Female,Spanish,No,10,No
+3112,Two parent family,White,No,2,2,0,4,39,30,339,Not Well,Female,Portuguese,No,14,No
+3113,Two parent family,Asian,No,2,2,0,4,41,70,262,Well,Female,Nepali,No,45,No
+3115,Two parent family,White,Yes,2,1,17154,3,30,160,262,Not At All,Female,Spanish,No,31,No
+3116,Two parent family,Asian,No,2,2,0,4,37,160,116,Well,Female,Gujarati,No,4,No
+3118,Two parent family,White,No,2,2,0,4,29,265,205,Well,Male,Arabic,No,4,No
+3119,Two parent family,White,Yes,2,1,24440,3,30,5,275,Not Well,Female,Portuguese,No,5,No
+3123,Two parent family,Black or African American,No,2,3,0,5,42,80,262,,Female,Amharic,No,36,No
+3126,Single parent (mother figure only),Black or African American,No,1,1,0,2,31,95,262,Very Well,Female,Arabic,No,10,No
+3127,Single parent (mother figure only),Black or African American,No,1,1,0,2,31,460,339,Very Well,Female,English,No,13,No
+3129,Single parent (mother figure only),White,No,1,2,0,3,41,85,262,Very Well,Female,English,No,19,No
+3138,Two parent family,Black or African American,No,4,3,0,7,40,280,246,Very Well,Female,Amharic,No,57,No
+3142,Single parent (mother figure only),Other,Yes,2,1,20222,3,29,80,262,Very Well,Female,Spanish,No,12,No
+3144,Single parent (mother figure only),Other,Yes,1,1,29126,2,34,85,339,Not Well,Female,Spanish,No,6,No
+3145,Two parent family,Other,Yes,2,2,14283,4,37,85,339,Not Well,Female,Spanish,No,19,No
+3146,Two parent family,Asian,Yes,3,2,16119,5,51,85,262,Not Well,Female,Punjabi,No,11,No
+3147,Single parent (mother figure only),Other,Yes,1,1,21037,2,30,235,276,Not Well,Female,Spanish,No,20,No
+3148,Single parent (mother figure only),Black or African American,Yes,1,2,33714,3,34,30,262,Very Well,Female,English,No,5,No
+3149,Two parent family,Other,Yes,2,1,20800,3,42,75,347,Not Well,Female,Portuguese,No,1,Yes
+3150,Two parent family,White,Yes,3,1,18720,4,42,180,262,Not Well,Female,Spanish,No,100,No
+3154,Two parent family,Asian,No,3,1,0,4,42,10,223,Well,Female,Nepali,No,6,No
+3155,Two parent family,Black or African American,No,2,3,0,5,36,90,339,Very Well,Female,English,No,11,No
+3156,Two parent family,Other,No,3,2,0,5,46,40,262,Not Well,Female,Spanish,No,8,No
+3158,Single parent (mother figure only),Other,No,2,1,0,3,37,110,66,Not At All,Female,Spanish,No,11,No
+3159,Single parent (mother figure only),Other,Yes,2,2,7469,4,42,195,339,Well,Female,Portuguese,No,6,No
+3162,Single parent (mother figure only),Other,No,1,1,0,2,27,5,365,Very Well,Female,English,No,1,Yes
+3163,Two parent family,Asian,No,4,2,0,6,39,190,25,Not Well,Female,Bengali,No,4,No
+3165,Two parent family,Other,No,2,2,0,4,46,195,262,Not Well,Female,Portuguese,No,28,No
+3169,,White,Yes,2,3,31200,5,43,180,339,,Female,Portuguese,No,135,No
+3172,Two parent family,White,Yes,3,2,29003,5,43,185,262,Not At All,Female,Spanish,No,16,No
+3174,Two parent family,White,Yes,2,2,34071,4,47,20,275,Very Well,Female,English,No,2,No
+3176,Two parent family,White,No,2,3,0,5,37,20,14,,Female,Spanish,No,12,No
+3177,Single parent (mother figure only),Black or African American,Yes,2,2,12766,4,38,85,262,Very Well,Female,Creole,No,16,No
+3178,Two parent family,White,Yes,2,3,33120,5,35,240,262,Not Well,Female,Spanish,No,34,No
+3180,Two parent family,White,No,2,2,0,4,44,135,262,Not At All,Female,Spanish,No,55,No
+3181,Two parent family,Other,No,2,3,0,5,42,95,189,,Female,Arabic,No,20,Yes
+3184,Two parent family,Asian,No,2,2,0,4,35,95,262,Well,Female,Nepali,No,17,No
+3186,Single parent (mother figure only),White,Yes,1,1,15600,2,29,80,339,Not At All,Female,Portuguese,No,22,No
+3187,Two parent family,White,Yes,2,2,15600,4,41,220,262,Not Well,Female,Spanish,No,68,No
+3189,Two parent family,White,Yes,2,1,13728,3,35,185,276,Not At All,Female,Spanish,No,10,No
+3190,Two parent family,Native Hawaiian/Pacific Islander,No,2,1,0,3,26,80,11,Very Well,Female,English,No,9,No
+3191,Two parent family,White,No,2,2,0,4,34,525,210,Very Well,Female,English,No,12,Yes
+3200,Single parent (mother figure only),White,Yes,1,2,26194,3,38,90,262,Not At All,Female,Spanish,No,24,No
+3201,Single parent (mother figure only),Other,No,1,1,0,2,41,245,332,Very Well,Female,Portuguese,No,1,Yes
+3202,Two parent family,White,No,2,2,0,4,46,90,262,Well,Female,Spanish,No,196,No
+3203,Single parent (mother figure only),White,Yes,1,2,19604,3,36,80,25,Not Well,Female,Spanish,No,2,No
+3204,Two parent family,White,Yes,2,4,40518,6,35,165,276,Not Well,Female,Spanish,No,135,No
+3206,Single parent (father figure only) living w/partner,Black or African American,Yes,3,1,27631,4,46,10,262,Well,Male,Amharic,No,11,No
+3208,Two parent family,White,Yes,3,1,25738,4,41,5,262,Not At All,Female,Spanish,No,15,No
+3211,Two parent family,Asian,Yes,2,2,29865,4,41,10,276,Well,Male,Hindi,No,14,No
+3212,Two parent family,Asian,No,2,1,0,3,30,10,275,Well,Female,Nepali,No,4,No
+3213,Two parent family,White,No,2,2,0,4,41,80,276,,Female,Portuguese,No,14,No
+3216,Two parent family,White,No,2,2,0,4,32,80,261,Well,Female,Portuguese,No,4,Yes
+3217,Single parent (mother figure only),White,Yes,1,2,37345,3,42,250,339,Well,Female,Portuguese,No,37,No
+3218,Two parent family,Other,No,2,1,0,3,32,40,198,Not At All,Female,Spanish,No,10,No
+3219,Two parent family,White,No,3,2,0,5,42,80,262,Well,Female,Spanish,No,25,No
+3220,Two parent family,White,No,2,1,0,3,32,10,84,Not At All,Female,Spanish,No,5,Yes
+3221,Single parent (mother figure only),Black or African American,Yes,1,1,10573,2,29,85,339,Well,Female,Creole,No,14,No
+3223,Two parent family,White,Yes,2,2,13608,4,33,85,275,Not At All,Female,Spanish,No,4,No
+3225,Two parent family,White,No,2,2,0,4,33,40,223,Not Well,Female,Spanish,No,28,No
+3227,Single parent (mother figure only),White,Yes,1,2,25584,3,35,165,170,Not Well,Female,Spanish,No,46,No
+3228,Single parent (mother figure only),,Yes,1,1,15600,2,42,130,262,Not Well,Female,Portuguese,No,19,No
+3229,Single parent (mother figure only),White,Yes,1,1,20674,2,28,5,190,Very Well,Female,English,No,46,No
+3233,Single parent (mother figure only),Black or African American,No,2,2,0,4,48,185,325,,Female,Amharic,No,32,Yes
+3237,Single parent (mother figure only),Other,Yes,1,3,33510,4,28,20,262,Not At All,Female,Spanish,No,10,No
+3239,Two parent family,White,Yes,2,2,23920,4,34,80,295,Not Well,Female,Portuguese,No,16,Yes
+3247,Two parent family,Asian,No,2,2,0,4,35,85,262,Well,Female,Other,No,6,No
+3248,Two parent family,Black or African American,Yes,2,2,32235,4,39,10,262,Well,Female,Other,No,279,No
+3249,Single parent (mother figure only),White,No,1,4,0,5,35,105,262,Very Well,Female,English,No,6,No
+3254,Two parent family,White,No,2,2,0,4,43,80,262,,Female,Portuguese,No,69,No
+3256,Single parent (mother figure only),White,Yes,1,3,21564,4,38,390,339,Not Well,Female,Spanish,No,5,No
+3257,Single parent (mother figure only),White,No,1,1,0,2,30,100,262,Very Well,Female,English,No,24,No
+3258,Single parent (mother figure only),White,No,1,2,0,3,34,145,66,Not Well,Female,Portuguese,No,2,No
+3259,Two parent family,White,Yes,2,2,19500,4,28,80,280,Very Well,Female,Portuguese,No,1,Yes
+3260,Two parent family,White,No,2,1,0,3,36,130,142,Not At All,Female,Spanish,No,37,No
+3261,Two parent family,White,Yes,2,2,10798,4,38,215,267,,Female,Spanish,Yes,199,No
+3262,Two parent family,White,No,2,3,0,5,32,80,262,Not At All,Female,Spanish,No,16,No
+3263,Single parent (mother figure only),White,Yes,2,3,22639,5,35,80,255,Not Well,Female,Spanish,No,124,No
+3265,Two parent family,Asian,No,2,1,0,3,38,10,262,Well,Male,Hindi,No,5,No
+3272,Single parent (mother figure only),Black or African American,No,1,1,0,2,51,305,266,Not Well,Female,Creole,No,3,Yes
+3273,Two parent family,White,Yes,2,2,36936,4,28,150,262,Very Well,Female,English,No,9,No
+3274,Two parent family,White,No,2,3,0,5,37,145,261,Not Well,Female,Portuguese,No,3,Yes
+3275,Single parent (mother figure only),White,Yes,2,2,20800,4,29,130,339,Well,Female,Portuguese,No,20,No
+3277,Two parent family,Black or African American,No,2,2,0,4,39,170,224,Well,Female,Amharic,No,2,Yes
+3279,Two parent family,Black or African American,No,2,2,0,4,39,175,65,Well,Male,Amharic,No,6,Yes
+3280,Single parent (mother figure only),White,Yes,3,1,46000,4,52,40,339,Very Well,Female,Spanish,No,5,No
+3281,Single parent (mother figure only),White,No,2,3,0,5,34,105,308,Well,Female,Spanish,No,32,No
+3282,Two parent family,Black or African American,Yes,2,2,26897,4,34,160,262,Well,Male,Amharic,No,21,No
+3287,Single parent (mother figure only),Other,Yes,2,2,16640,4,38,235,339,Not Well,Female,Portuguese,No,19,No
+3288,Two parent family,White,Yes,3,3,21840,6,29,150,273,Very Well,Female,English,No,26,No
+3289,Single parent (mother figure only),Other,Yes,2,1,32815,3,35,30,339,Very Well,Female,Spanish,No,60,No
+3290,Two parent family,White,No,3,2,0,5,40,65,275,Not Well,Female,Portuguese,No,5,No
+3292,Single parent (mother figure only),Black or African American,No,1,3,0,4,37,415,318,Very Well,Female,Creole,No,11,No
+3294,Single parent (mother figure only),White,No,1,1,0,2,35,290,234,Not At All,Female,Spanish,No,3,No
+3296,Single parent (mother figure only),Other,Yes,1,1,30336,2,26,25,244,Very Well,Female,English,No,11,No
+3301,Two parent family,Black or African American,Yes,2,2,27717,4,32,10,244,Very Well,Female,English,No,4,No
+3302,Single parent (mother figure only),Other,Yes,2,2,27300,4,36,160,237,Not At All,Female,Spanish,No,35,No
+3303,Two parent family,Black or African American,Yes,2,3,48503,5,41,35,16,Well,Female,Amharic,No,2,No
+3313,Single parent (mother figure only),Black or African American,Yes,1,1,27300,2,40,30,254,Very Well,Female,English,No,6,No
+3314,Single parent (mother figure only),Bi-racial/Multi-racial,No,1,2,0,3,29,410,260,Very Well,Female,English,No,2,Yes
+3315,Two parent family,Black or African American,No,2,3,0,5,40,55,213,Well,Female,Amharic,No,17,No
+3320,Single parent (mother figure only),Other,Yes,2,1,19604,3,32,110,232,Not Well,Female,Spanish,No,57,No
+3321,Single parent (mother figure only),Black or African American,Yes,1,1,23252,2,26,30,108,,Female,English,No,11,Yes
+3329,Single parent (father figure only),Black or African American,Yes,1,1,11440,2,37,245,215,Very Well,Male,Arabic,No,15,No
+3332,Two parent family,Asian,Yes,2,1,20845,3,36,105,64,Well,Female,Nepali,No,26,No
+3336,Single parent (mother figure only),Black or African American,Yes,1,1,6721,2,31,380,190,Very Well,Female,Creole,No,13,No
+3342,Single parent (mother figure only),Black or African American,Yes,1,2,14479,3,41,230,188,Very Well,Female,Creole,No,23,No
+3345,Two parent family,Asian,Yes,2,2,17495,4,41,135,136,Well,Female,Nepali,No,17,No
+3346,Single parent (mother figure only),White,No,1,1,0,2,24,355,148,Very Well,Female,English,No,4,No
+3349,Two parent family,Asian,Yes,3,2,5873,5,23,270,72,Well,Male,Mandarin,No,60,No
+3352,Single parent (mother figure only),Other,Yes,1,1,23394,2,28,355,164,Not At All,Female,Spanish,No,16,No
+3355,Two parent family,White,No,2,2,0,4,37,170,329,Not Well,Female,Spanish,No,1,Yes
+3363,Two parent family,White,No,2,2,0,4,32,155,136,Not Well,Female,Spanish,No,41,No
+3364,Two parent family,White,No,2,4,0,6,42,95,212,Not Well,Female,Arabic,No,1,Yes
+3367,Single parent (mother figure only),White,Yes,2,3,17644,5,38,95,149,Not At All,Female,Spanish,No,60,No
+3370,Two parent family,Black or African American,Yes,3,2,37187,5,32,5,113,Well,Female,Amharic,No,10,No
+3381,Single parent (mother figure only),White,No,1,1,0,2,41,195,106,Very Well,Female,English,No,3,No
+3394,Two parent family,Black or African American,No,2,2,0,4,36,165,66,Well,Female,Somali,No,54,No
+3397,Two parent family,Asian,No,3,2,0,5,38,55,70,Well,Female,Bengali,No,8,No
+3404,Single parent (mother figure only),White,No,1,2,0,3,68,460,65,Very Well,Female,English,No,7,No
+3405,Single parent (mother figure only),White,Yes,1,2,18373,3,25,175,79,Not Well,Female,Spanish,No,3,No
+3413,Two parent family,Asian,Yes,2,2,12400,4,36,190,71,Very Well,Female,Mandarin,No,24,No
+3414,Two parent family,White,Yes,2,1,16114,3,30,80,352,Not Well,Female,Spanish,No,24,No
+3416,Two parent family,Black or African American,Yes,2,2,25389,4,40,40,284,Very Well,Female,English,No,2,Yes
+3425,Single parent (mother figure only),White,No,2,1,0,3,36,85,347,Well,Female,Kazakh,No,1,Yes
+3426,Two parent family,White,Yes,1,1,23874,2,58,5,302,Very Well,Male,English,No,2,Yes
+3427,Single parent (mother figure only),Black or African American,No,1,2,0,3,30,155,217,,Female,English,No,28,Yes
+3430,Two parent family,Asian,No,2,1,0,3,28,40,254,Well,Female,Russian,No,9,No
+3432,Single parent (mother figure only),White,Yes,2,1,23660,3,56,5,88,Not At All,Female,Portuguese,No,26,No
+3454,Single parent (mother figure only),Black or African American,No,2,2,0,4,44,250,218,Very Well,Male,Amharic,No,12,Yes
+3459,Two parent family,Asian,No,2,1,0,3,44,10,245,Not Well,Female,Nepali,No,5,Yes
+3463,Single parent (mother figure only),White,Yes,2,1,34785,3,42,5,249,Well,Female,Spanish,No,22,No
+3464,Two parent family,White,Yes,2,1,30003,3,28,20,190,Very Well,Female,English,No,30,No
+3465,Two parent family,White,No,2,3,0,5,39,30,58,Very Well,Female,Arabic,No,10,Yes
+3466,Single parent (mother figure only),Bi-racial/Multi-racial,No,1,1,0,2,44,180,252,Not Well,Female,Creole,No,2,Yes
+3473,Two parent family,White,No,1,1,0,2,28,100,335,Not At All,Female,Spanish,No,3,Yes
+3475,Two parent family,White,No,2,3,0,5,35,185,252,,Female,English,No,7,Yes
+3476,Two parent family,White,Yes,1,2,24960,3,29,10,69,Not At All,Female,Spanish,No,8,Yes
+3481,Single parent (mother figure only),White,No,2,1,0,3,28,20,249,Very Well,Female,Kazakh,No,21,No
+3484,Single parent (mother figure only),White,No,2,2,0,4,37,55,263,Not At All,Female,Portuguese,No,4,Yes
+3485,Two parent family,White,No,2,2,0,4,35,5,70,,Female,English,No,5,Yes
+3488,Single parent (mother figure only),Black or African American,Yes,1,1,55000,2,35,55,171,Very Well,Female,English,No,31,No
+3490,Two parent family,White,No,2,1,0,3,28,95,324,Not At All,Female,Portuguese,No,1,Yes
+3499,Two parent family,Asian,Yes,2,1,12393,3,28,85,136,Very Well,Female,Urdu,No,18,No
+3500,Single parent (mother figure only),White,Yes,3,1,22194,4,27,215,210,Very Well,Female,Spanish,No,42,No
+3502,Two parent family,White,No,2,3,0,5,38,10,178,Very Well,Female,Arabic,No,19,No
+3504,Single parent (mother figure only),Asian,Yes,2,1,17988,3,27,80,253,Not Well,Female,Gujarati,No,17,No
+3506,Single parent (mother figure only),Asian,Yes,2,2,10753,4,30,100,178,Well,Female,Bengali,No,7,No
+3508,Single parent (mother figure only),White,Yes,3,1,30413,4,31,65,86,Very Well,Female,English,No,13,No
+3509,Single parent (mother figure only),White,No,2,1,0,3,37,55,263,Not At All,Female,Portuguese,No,2,Yes
+3510,Two parent family,Black or African American,No,2,2,0,4,35,155,262,Well,Female,Amharic,No,10,No
+3517,Two parent family,White,Yes,3,1,28731,4,37,85,249,Very Well,Female,English,No,23,No
+3519,Single parent (mother figure only),Black or African American,Yes,3,2,18738,5,40,480,8,Very Well,Female,Yoruba,No,13,No
+3521,Two parent family,White,Yes,3,1,0,4,43,175,228,Not At All,Female,Spanish,No,53,No
+4522,Two parent family,Asian,No,2,1,0,3,34,170,245,Well,Female,Nepali,No,16,Yes
+4523,Single parent (mother figure only),White,No,2,2,0,4,35,10,114,Not At All,Female,Portuguese,No,20,No
+4524,Two parent family,White,Yes,5,1,47840,6,44,115,220,Very Well,Female,Portuguese,No,19,No
+4525,Two parent family,Asian,No,2,1,0,3,33,155,235,Not Well,Female,Pashto,No,15,No
+4526,Two parent family,Black or African American,No,4,2,0,6,39,55,234,Not Well,Female,Haitian Creole,No,17,No
+4527,Two parent family,White,Yes,1,1,19144,2,27,200,245,Very Well,Female,English,No,10,No
+4528,Two parent family,Black or African American,No,3,1,0,4,38,240,235,Well,Female,Creole,No,30,No
+4529,Two parent family,White,Yes,2,1,18200,3,30,225,261,Not At All,Female,Spanish,No,4,No
+4530,Two parent family,White,No,2,1,0,3,26,185,247,Not At All,Female,Portuguese,No,6,No
+4532,Two parent family,White,No,3,1,0,4,35,195,235,Very Well,Female,English,No,10,No
+4533,Two parent family,Black or African American,No,1,2,0,3,27,140,175,Very Well,Female,Creole,No,3,Yes
+4538,Two parent family,Asian,No,2,1,0,3,39,95,93,Well,Female,Cambodian,No,17,No
+4539,Two parent family,Asian,No,2,2,0,4,44,175,213,Well,Female,Gujarati,No,17,No
+4540,Two parent family,White,Yes,2,2,31200,4,36,65,69,Not At All,Female,Portuguese,No,4,Yes
+4541,Single parent (mother figure only),Asian,No,2,1,0,3,31,45,198,Well,Female,Arabic,No,13,No
+4542,Two parent family,Bi-racial/Multi-racial,Yes,2,1,36593,3,26,90,206,Very Well,Female,English,No,20,No
+4543,Two parent family,Asian,Yes,1,3,28610,4,43,55,213,Well,Female,Arabic,No,29,No
+4545,Single parent (mother figure only),White,No,1,2,0,3,27,160,255,Very Well,Female,English,No,12,No
+4546,Two parent family,White,No,1,1,0,2,36,150,88,,Female,English,No,16,No
+4550,Two parent family,White,Yes,2,1,27040,3,25,85,178,Not At All,Female,Portuguese,No,14,No
+4552,Single parent (mother figure only),White,Yes,1,2,18200,3,37,80,135,Very Well,Female,Portuguese,No,29,No
+4554,Single parent (mother figure only),Black or African American,Yes,2,2,14116,4,39,85,250,Well,Female,Amharic,No,13,No
+4555,Two parent family,Black or African American,Yes,2,2,14293,4,49,625,191,Very Well,Male,Amharic,No,8,No
+4556,Two parent family,White,Yes,3,1,21411,4,29,80,121,Well,Female,Spanish,No,28,No
+4558,Two parent family,White,Yes,3,1,31348,4,36,175,115,Very Well,Female,Portuguese,No,15,No
+4559,Single parent (mother figure only),White,No,2,2,0,4,33,65,129,Not At All,Female,Spanish,No,24,No
+4563,Two parent family,Asian,Yes,2,2,24201,4,35,80,87,Well,Female,Nepali,No,14,No
+4566,Two parent family,White,Yes,2,1,48966,3,22,240,236,Well,Female,English,No,14,No
+574,Two parent family,Hispanic/Latino,Yes,2,2,21724,4,49,180,101,Not At All,Female,Spanish,No,79,No
+599,Two parent family,Hispanic/Latino,Yes,2,2,23289,4,42,205,102,Well,Female,Spanish,Yes,88,No
+1145,Two parent family,Black or African American,Yes,2,2,20295,4,54,155,103,Well,Male,Arabic,No,73,Yes
+1544,Two parent family,White,No,2,2,0,4,36,175,104,Not Well,Female,Portuguese,Yes,66,Yes
+1606,Two parent family,Asian,No,3,4,0,7,51,180,105,Well,Female,Bengali,Yes,11,No
+1624,Two parent family,White,Yes,2,1,15600,3,37,205,106,Well,Male,Portuguese,Yes,14,No
+1634,Two parent family,Hispanic/Latino,Yes,2,3,55563,5,40,155,107,Not Well,Female,Spanish,Yes,69,Yes
+2082,Single parent (mother figure only),,Yes,1,1,18200,2,37,85,108,,Female,English,Yes,71,Yes
+2138,Single parent (mother figure only),Black or African American,No,2,2,0,4,46,95,109,Very Well,Female,Creole,Yes,48,Yes
+2387,Two parent family,Black or African American,No,2,2,0,4,41,80,110,Well,Male,Amharic,No,7,Yes
+2503,Single parent (mother figure only),Black or African American,No,1,1,0,2,32,180,111,,Female,Creole,No,76,Yes
+2504,Two parent family,Other,Yes,2,1,19500,3,34,185,112,Not At All,Female,Portuguese,Yes,5,Yes
+2525,Single parent (mother figure only),Other,Yes,1,1,10400,2,48,190,113,,Female,Portuguese,No,8,No
+2531,Single parent (mother figure only),White,Yes,1,1,32868,2,44,825,114,,Female,Portuguese,No,17,No
+2533,Single parent (mother figure only),White,No,2,2,0,4,25,215,115,Not Well,Female,Portuguese,No,19,Yes
+2778,Two parent family,Asian,Yes,2,2,5189,4,40,190,116,Well,Female,Punjabi,No,5,Yes
+3025,Two parent family,Asian,No,2,2,0,4,32,80,117,Well,Female,Gujarati,No,10,Yes
+3134,Two parent family,Asian,No,2,1,0,3,27,65,118,Not Well,Female,Bengali,No,32,Yes
+3136,Two parent family,Other,No,3,2,0,5,40,85,119,Not Well,Female,Spanish,No,5,Yes
+3137,Two parent family,Asian,Yes,2,2,25665,4,43,10,120,Very Well,Female,Punjabi,No,5,Yes
+3140,Single parent (mother figure only),Black or African American,Yes,1,1,42432,2,38,40,121,Well,Female,Amharic,No,25,No
+3168,Two parent family,Asian,Yes,2,3,44658,5,40,30,122,Well,Male,Nepali,No,44,Yes
+3182,Two parent family,Black or African American,No,2,4,0,6,47,20,123,Well,Female,Somali,No,36,Yes
+3198,Two parent family,Black or African American,No,3,2,0,5,39,265,124,,Female,Somali,No,71,Yes
+3264,Two parent family,Asian,No,5,4,0,9,28,80,125,Well,Female,Urdu,No,82,Yes
+3276,Single parent (father figure only) living w/partner,Black or African American,No,2,1,0,3,73,95,126,Not Well,Male,Creole,No,10,Yes
+3338,Two parent family,Asian,No,2,2,0,4,41,95,127,Not Well,Female,Nepali,No,13,Yes
+3518,Two parent family,White,No,1,1,0,2,23,170,128,Not Well,Female,Portuguese,No,13,No
+4535,Single parent (mother figure only),Asian,Yes,3,2,21027,5,40,165,129,Well,Female,Hindi,No,11,No
+4548,Two parent family,Black or African American,No,2,1,0,3,28,80,130,Very Well,Female,Somali,No,15,No
+4557,Single parent (mother figure only),Asian,No,2,1,0,3,35,55,131,Not Well,Female,Arabic,No,4,Yes
+4564,Two parent family,Black or African American,No,1,2,0,3,27,195,132,Very Well,Female,English,No,24,No
+4565,Single parent (mother figure only),Asian,Yes,2,3,10649,5,31,90,133,Well,Female,Bengali,No,40,No
+4568,Two parent family,White,No,2,2,0,4,40,55,134,Not Well,Female,Portuguese,No,17,No
+4573,Single parent (mother figure only),Black or African American,Yes,1,1,25768,2,37,95,135,Very Well,Female,Creole,No,19,No
+4575,Two parent family,White,Yes,1,3,24965,4,34,80,136,Not Well,Female,Spanish,No,16,No
+4578,Two parent family,White,Yes,1,1,22308,2,21,75,137,Not Well,Female,Spanish,No,18,No
+4580,Single parent (mother figure only),White,No,2,1,0,3,33,65,138,Not Well,Female,Portuguese,No,10,No
+31,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,14092,3,38,200,201,Not Well,Female,Spanish,Yes,196,No
+35,Two parent family,Hispanic/Latino,Yes,2,2,26000,4,42,125,202,Not Well,Female,Spanish,Yes,228,No
+105,Two parent family,Black or African American,No,2,7,0,9,54,210,203,,Female,English,Yes,134,No
+111,Single parent (mother figure only),Black or African American,Yes,1,5,11301,6,29,310,204,,Female,Other,No,176,No
+138,Two parent family,White,Yes,2,1,15600,3,55,200,205,,Female,Portuguese,Yes,56,No
+164,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,22750,3,43,255,206,Not Well,Female,Spanish,Yes,124,No
+168,Two parent family,Hispanic/Latino,Yes,1,2,37200,3,43,400,207,,Female,Spanish,No,108,No
+174,Two parent family,Hispanic/Latino,Yes,2,2,10467,4,42,175,208,,Male,Spanish,Yes,56,No
+179,Two parent family,Hispanic/Latino,Yes,2,3,0,5,53,260,209,Not Well,Female,Spanish,Yes,188,No
+198,Two parent family,Black or African American,Yes,2,3,14968,5,42,170,210,,Female,Somali,No,84,No
+221,Two parent family,White,Yes,2,4,22880,6,36,205,211,Very Well,Female,English,Yes,297,No
+227,Single parent (mother figure only),White,Yes,1,3,29100,4,45,195,212,,Female,Arabic,Yes,68,No
+282,Two parent family,Asian,Yes,2,1,27149,3,47,165,213,Well,Male,Nepali,Yes,164,No
+310,Two parent family,Other,Yes,2,2,10729,4,51,310,214,,Female,Portuguese,Yes,208,No
+315,Single parent (mother figure only),Black or African American,Yes,1,4,35893,5,41,180,215,,Female,English,No,272,No
+359,Single parent (mother figure only),Asian,Yes,2,3,27400,5,46,310,216,,Female,Bengali,Yes,56,No
+453,Two parent family,Black or African American,Yes,2,3,14400,5,48,160,217,,Female,Creole,Yes,108,No
+470,Two parent family,Other,Yes,2,2,21736,4,36,155,218,Not Well,Female,Portuguese,Yes,128,No
+475,Two parent family,Hispanic/Latino,Yes,2,2,22856,4,35,195,219,Not Well,Female,Spanish,Yes,104,No
+489,Two parent family,White,Yes,2,3,15600,5,55,180,220,,Female,Arabic,Yes,268,No
+498,Two parent family,White,Yes,2,3,33800,5,43,105,221,,Female,Portuguese,No,220,No
+499,Two parent family,Asian,Yes,2,2,18120,4,46,195,222,Well,Male,Arabic,Yes,48,No
+607,Two parent family,Other,Yes,2,2,23400,4,49,195,223,Not Well,Female,Portuguese,Yes,120,No
+609,Two parent family,Other,Yes,2,2,36400,4,43,65,224,Not Well,Female,Portuguese,Yes,160,No
+646,Two parent family,Black or African American,Yes,2,3,22308,5,53,85,225,Not Well,Male,Other,Yes,72,No
+659,Two parent family,Hispanic/Latino,Yes,2,2,25220,4,33,95,226,Very Well,Female,Spanish,No,252,No
+675,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,10400,4,36,185,227,,Female,Spanish,No,65,No
+708,Single parent (mother figure only),White,Yes,1,2,19800,3,43,115,228,,Female,English,Yes,76,No
+716,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,17625,4,36,200,229,Very Well,Female,Spanish,Yes,124,No
+732,Single parent (mother figure only),Black or African American,Yes,1,4,5747,5,36,210,230,,Female,Somali,Yes,72,No
+739,Two parent family,White,Yes,2,4,28747,6,52,395,231,Very Well,Male,English,Yes,264,No
+791,Single parent (mother figure only),Black or African American,Yes,1,2,18493,3,41,195,232,,Female,Amharic,Yes,100,No
+804,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,27800,4,43,435,233,Not Well,Female,Spanish,Yes,164,No
+879,Single parent (mother figure only),Asian,Yes,1,2,24018,3,38,105,234,,Female,Other,Yes,248,No
+887,Two parent family,White,Yes,2,2,18200,4,49,195,200,,Female,Spanish,Yes,65,No
+909,Two parent family,Asian,Yes,2,2,46685,4,48,65,199,,Male,Nepali,No,76,No
+930,Two parent family,Hispanic/Latino,Yes,3,2,17866,5,34,195,198,Not Well,Female,Spanish,Yes,184,No
+941,Two parent family,Asian,Yes,2,2,12918,4,45,85,197,,Male,Bengali,No,189,No
+946,Single parent (mother figure only),Black or African American,Yes,1,3,17006,4,39,160,196,Very Well,Female,English,Yes,128,No
+964,Two parent family,Other,Yes,2,2,24891,4,48,210,195,,Female,Nepali,Yes,43,No
+969,Single parent (mother figure only),Asian,Yes,1,2,34321,3,36,205,194,,Female,English,No,224,No
+975,Single parent (mother figure only),Black or African American,Yes,1,3,19469,4,37,435,193,,Female,English,No,132,No
+1038,Two parent family,White,Yes,2,1,40248,3,44,55,192,,Female,English,No,47,No
+1041,Two parent family,White,Yes,2,2,23617,4,44,185,201,Not Well,Female,Portuguese,Yes,56,No
+1054,Two parent family,Hispanic/Latino,Yes,2,1,14966,3,46,195,202,,Female,Spanish,Yes,47,No
+1062,Two parent family,Hispanic/Latino,Yes,2,2,29120,4,36,200,203,,Female,Spanish,No,128,No
+1072,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,13859,4,49,200,204,,Female,Spanish,Yes,67,No
+1079,Single parent (mother figure only),White,Yes,1,2,10356,3,51,310,205,,Female,English,No,38,No
+1082,Two parent family,White,Yes,2,1,42484,3,49,200,206,,Female,Portuguese,Yes,196,No
+1107,Two parent family,Hispanic/Latino,Yes,2,3,32114,5,41,190,207,Well,Female,Spanish,Yes,192,No
+1110,Single parent (mother figure only),Asian,Yes,1,2,15600,3,46,155,208,,Female,Bengali,Yes,31,No
+1112,Two parent family,Asian,Yes,2,2,16640,4,47,200,209,Not Well,Male,Punjabi,No,124,No
+1123,Two parent family,Asian,Yes,2,2,12355,4,48,200,210,,Male,Other,No,17,No
+1124,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,32400,2,33,295,211,,Female,Spanish,No,110,No
+1131,Two parent family,Hispanic/Latino,Yes,2,2,26052,4,54,200,212,,Female,Spanish,Yes,216,No
+1133,Single parent (mother figure only),Hispanic/Latino,No,1,1,0,2,32,405,213,,Female,Spanish,No,17,No
+1143,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,45136,3,36,620,214,Not At All,Female,Spanish,Yes,92,No
+1152,Two parent family,Other,Yes,2,2,23400,4,39,85,215,,Female,Portuguese,Yes,27,No
+1154,Single parent (mother figure only),Black or African American,Yes,1,2,47301,3,55,165,216,,Female,Creole,No,48,No
+1159,Single parent (mother figure only),Black or African American,Yes,1,1,18700,2,33,105,217,,Female,English,No,33,No
+1169,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,14395,2,33,195,218,,Female,Spanish,Yes,66,No
+1171,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,17146,2,36,105,219,,Female,Spanish,Yes,56,No
+1188,Two parent family,Other,Yes,2,1,34056,3,41,210,220,,Female,Portuguese,Yes,47,No
+1191,Two parent family,Hispanic/Latino,Yes,2,1,20443,3,32,105,221,,Female,Spanish,No,12,No
+1192,Single parent (mother figure only),Black or African American,Yes,1,1,28004,2,43,355,222,,Female,Other,No,20,No
+1193,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,18487,2,39,85,223,,Female,Spanish,No,34,No
+1198,Two parent family,Other,Yes,2,2,17147,4,43,200,224,,Female,Punjabi,Yes,38,No
+1200,Single parent (mother figure only),Other,Yes,1,2,13000,3,44,200,225,,Female,Portuguese,Yes,44,No
+1209,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,14560,2,40,205,226,Not Well,Female,Spanish,Yes,117,No
+1216,Single parent (mother figure only) living w/partner,Hispanic/Latino,Yes,1,2,44321,3,36,75,227,,Female,Spanish,Yes,46,No
+1221,Single parent (mother figure only),White,Yes,1,1,22553,2,53,190,228,,Female,Spanish,No,100,No
+1234,Two parent family,Asian,No,2,1,0,3,45,210,229,,Male,Nepali,Yes,43,No
+1238,Two parent family,Asian,Yes,2,3,13734,5,50,200,230,,Male,Bengali,Yes,48,No
+1240,Two parent family,Other,Yes,2,2,29398,4,66,105,231,,Male,Portuguese,Yes,61,No
+1242,Two parent family,Other,Yes,2,1,12412,3,28,190,232,,Female,Nepali,Yes,4,No
+1256,Two parent family,Hispanic/Latino,Yes,2,1,15523,3,33,195,233,,Female,Spanish,No,36,No
+1260,Two parent family,Hispanic/Latino,Yes,2,3,20800,5,42,200,234,,Female,Spanish,Yes,36,No
+1266,Two parent family,Black or African American,Yes,2,2,27692,4,56,125,235,Well,Male,Arabic,Yes,48,No
+1275,Two parent family,Hispanic/Latino,Yes,2,1,14321,3,29,200,236,,Female,Spanish,Yes,54,No
+1276,Single parent (mother figure only),Bi-racial/Multi-racial,Yes,1,1,14976,2,38,310,237,,Female,English,Yes,29,No
+1282,Single parent (mother figure only),Black or African American,Yes,1,1,10662,2,32,200,238,,Female,English,Yes,29,No
+1286,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,25736,3,37,195,239,,Female,Spanish,Yes,38,No
+1288,Two parent family,Asian,Yes,2,2,27416,4,46,215,240,,Female,Gujarati,Yes,236,No
+1290,Two parent family,Black or African American,No,2,2,0,4,55,220,241,,Female,Arabic,Yes,212,No
+1292,Two parent family,Asian,No,2,2,0,4,40,210,242,,Female,Nepali,Yes,27,No
+1295,Single parent (mother figure only),White,Yes,1,1,10400,2,36,200,243,,Female,Portuguese,Yes,272,No
+1296,Two parent family,Asian,Yes,2,1,15080,3,36,185,244,,Female,Other,Yes,7,No
+1302,Two parent family,Asian,Yes,2,2,36109,4,39,95,245,,Female,Nepali,Yes,136,No
+1303,Two parent family,White,Yes,2,1,15600,3,44,155,246,,Female,Portuguese,Yes,14,No
+1304,Two parent family,Asian,Yes,2,1,23504,3,49,75,247,,Male,Bengali,Yes,18,No
+1310,Single parent (mother figure only),Hispanic/Latino,Yes,2,1,13000,3,43,200,248,,Female,Spanish,Yes,112,No
+1311,Single parent (mother figure only),White,No,1,1,0,2,46,210,249,,Female,Portuguese,Yes,26,No
+1313,Two parent family,Hispanic/Latino,Yes,2,2,29780,4,38,105,250,,Female,Spanish,Yes,204,No
+1317,Two parent family,Asian,Yes,2,3,20358,5,41,195,251,,Female,Gujarati,Yes,68,No
+1318,Two parent family,Asian,Yes,1,1,34004,2,42,205,252,,Female,Nepali,No,40,No
+1321,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,14188,3,36,200,189,,Female,Spanish,Yes,43,No
+1322,Two parent family,Other,Yes,2,2,23028,4,35,290,190,,Female,English,Yes,95,No
+1324,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,25200,2,37,270,191,,Female,Spanish,No,39,No
+1325,Two parent family,Hispanic/Latino,Yes,2,1,19500,3,36,195,192,,Female,Spanish,Yes,44,No
+1330,Two parent family,Asian,Yes,2,1,19280,3,48,85,193,,Male,Other,Yes,220,No
+1333,Two parent family,Asian,Yes,3,1,27794,4,42,105,194,,Female,Gujarati,Yes,12,No
+1334,Two parent family,Other,No,2,2,0,4,46,210,195,,Male,Nepali,Yes,42,No
+1335,Two parent family,Black or African American,Yes,2,1,17402,3,53,155,196,,Male,Other,Yes,19,No
+1343,Two parent family,Hispanic/Latino,Yes,2,1,18460,3,31,165,197,,Male,Spanish,Yes,24,No
+1344,Single parent (mother figure only),Black or African American,No,1,4,0,5,44,405,198,,Female,English,Yes,18,No
+1345,Two parent family,Other,Yes,2,2,19000,4,45,195,199,,Female,Portuguese,Yes,41,No
+1352,Single parent (mother figure only),Black or African American,No,1,1,0,2,74,170,200,,Female,Somali,Yes,9,No
+1354,Single parent (mother figure only),Hispanic/Latino,No,1,2,0,3,31,450,201,Well,Female,Spanish,Yes,272,No
+1355,Single parent (mother figure only),White,Yes,1,1,15000,2,32,155,202,,Female,English,Yes,32,No
+1360,Single parent (mother figure only),Hispanic/Latino,No,1,1,0,2,31,180,203,,Female,Spanish,Yes,24,No
+1364,Two parent family,White,Yes,2,1,18200,3,48,185,204,,Female,Portuguese,Yes,20,No
+1373,Single parent (mother figure only),White,No,2,2,0,4,42,180,205,,Female,English,Yes,260,No
+1376,Single parent (mother figure only),Asian,No,1,1,0,2,37,210,206,,Female,Nepali,Yes,23,No
+1378,Two parent family,Other,Yes,2,3,16900,5,43,450,207,,Female,Portuguese,Yes,73,No
+1379,Two parent family,Black or African American,Yes,2,2,22701,4,46,155,208,,Female,Amharic,Yes,12,No
+1382,Single parent (mother figure only),White,Yes,1,1,11743,2,62,425,209,,Female,Portuguese,No,55,No
+1383,Two parent family,Black or African American,Yes,2,3,20951,5,44,155,210,,Male,Amharic,Yes,4,No
+1384,Two parent family,Hispanic/Latino,Yes,1,1,37008,2,36,165,211,,Female,Spanish,Yes,36,No
+1387,Two parent family,Hispanic/Latino,Yes,2,2,35360,4,52,95,212,,Female,Spanish,Yes,13,No
+1390,Single parent (mother figure only),Hispanic/Latino,Yes,1,3,26000,4,48,260,213,,Female,English,Yes,84,No
+1391,Two parent family,Asian,Yes,3,1,16861,4,43,200,214,,Female,Bengali,No,6,No
+1393,Two parent family,White,Yes,2,2,22122,4,37,195,215,,Female,English,No,22,No
+1398,Single parent (mother figure only),Other,Yes,1,1,27800,2,46,170,216,,Female,Portuguese,Yes,16,No
+1404,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,27000,2,40,245,217,,Female,Spanish,Yes,69,No
+1407,Two parent family,Asian,Yes,2,2,15626,4,44,180,218,Well,Female,Chinese,Yes,36,No
+1410,Single parent (mother figure only),Hispanic/Latino,No,1,2,0,3,34,270,219,Very Well,Female,Spanish,Yes,15,No
+1415,Single parent (mother figure only),Other,Yes,1,1,17764,2,47,105,220,Very Well,Female,Spanish,Yes,17,No
+1417,Two parent family,Hispanic/Latino,Yes,2,3,16752,5,51,160,221,Not Well,Female,Spanish,Yes,4,No
+1418,Two parent family,Hispanic/Latino,Yes,2,1,12597,3,40,240,222,Not Well,Female,Spanish,Yes,59,No
+1422,Single parent (mother figure only) living w/partner,Hispanic/Latino,Yes,1,1,19344,2,39,135,223,Not Well,Female,Spanish,No,28,No
+1426,Two parent family,Other,Yes,2,2,23400,4,47,195,224,Not Well,Female,Portuguese,No,4,No
+1427,Two parent family,Hispanic/Latino,Yes,2,1,11960,3,37,170,225,Not Well,Female,Spanish,Yes,15,No
+1428,Two parent family,White,Yes,2,1,33280,3,41,165,226,Very Well,Female,Arabic,Yes,132,No
+1431,Single parent (mother figure only),Black or African American,Yes,2,3,16114,5,36,375,227,Very Well,Female,Portuguese,Yes,148,No
+1437,Two parent family,Black or African American,Yes,2,3,33919,5,42,105,228,Very Well,Male,Somali,Yes,88,No
+1440,Two parent family,Other,Yes,2,1,11556,3,42,150,229,,Male,Portuguese,No,12,No
+1441,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,13520,3,37,230,230,Not At All,Female,Spanish,Yes,14,No
+1442,Two parent family,Asian,Yes,2,1,19100,3,35,215,231,Not Well,Female,Nepali,Yes,30,No
+1447,Two parent family,White,Yes,2,1,18720,3,43,195,232,Well,Male,Portuguese,Yes,7,No
+1448,Single parent (mother figure only),Black or African American,Yes,1,3,19550,4,40,175,233,Very Well,Female,English,Yes,25,No
+1449,Single parent (mother figure only),Black or African American,Yes,1,1,45200,2,42,155,234,Well,Female,Amharic,Yes,18,No
+1451,Two parent family,Hispanic/Latino,Yes,2,2,19994,4,41,155,235,Very Well,Female,Spanish,Yes,41,No
+1452,Single parent (father figure only),Black or African American,Yes,1,2,14086,3,45,260,236,Well,Male,English,Yes,75,No
+1453,Two parent family,Other,Yes,2,1,17680,3,54,195,237,Not Well,Male,Nepali,Yes,20,No
+1455,Two parent family,Hispanic/Latino,Yes,2,1,19394,3,41,205,238,Not At All,Female,Spanish,Yes,33,No
+1457,Two parent family,Black or African American,Yes,2,1,12382,3,52,200,239,Well,Female,Other,Yes,8,No
+1458,Two parent family,Hispanic/Latino,Yes,2,1,18200,3,36,295,240,Not Well,Male,Spanish,Yes,36,No
+1459,Single parent (mother figure only),Black or African American,No,2,1,0,3,36,310,241,Well,Female,English,No,36,No
+1460,Two parent family,Hispanic/Latino,Yes,2,3,18200,5,44,180,242,Not Well,Male,Spanish,Yes,122,No
+1463,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,18231,2,36,145,243,Not Well,Female,Spanish,Yes,46,No
+1465,Two parent family,Hispanic/Latino,Yes,2,2,24833,4,42,210,244,Not Well,Male,Spanish,Yes,66,No
+1466,Two parent family,Black or African American,Yes,2,2,19396,4,49,145,245,Well,Female,Amharic,Yes,12,No
+1467,Single parent (mother figure only),White,Yes,1,1,13167,2,41,290,246,Very Well,Female,English,Yes,18,No
+1469,Two parent family,Hispanic/Latino,Yes,2,2,11591,4,39,195,247,Not Well,Female,Spanish,No,5,No
+1473,Two parent family,,Yes,2,2,27720,4,38,105,248,,Male,,Yes,14,No
+1479,Single parent (father figure only),Black or African American,Yes,1,1,36231,2,36,205,249,Very Well,Male,English,Yes,5,No
+1483,Two parent family,Hispanic/Latino,No,2,3,0,5,38,160,250,Very Well,Female,Spanish,Yes,141,No
+1487,Two parent family,Hispanic/Latino,Yes,2,1,15885,3,42,155,251,Not At All,Male,Spanish,Yes,42,No
+1488,Two parent family,White,Yes,2,1,19500,3,59,195,252,Not Well,Male,Portuguese,Yes,30,No
+1489,Two parent family,Hispanic/Latino,Yes,2,1,16137,3,36,185,253,Not Well,Male,Spanish,Yes,6,No
+1490,Single parent (mother figure only),White,Yes,1,1,18200,2,54,115,254,Not At All,Female,Portuguese,Yes,20,No
+1492,Two parent family,Hispanic/Latino,Yes,2,2,21105,4,50,240,255,Not Well,Female,Spanish,Yes,15,No
+1496,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,10400,3,43,245,256,,Female,Spanish,Yes,61,No
+1497,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,14758,3,35,210,257,Well,Female,Spanish,Yes,32,No
+1499,Two parent family,Black or African American,Yes,2,2,14006,4,44,160,258,Very Well,Male,Amharic,Yes,53,No
+1500,Single parent (mother figure only),Hispanic/Latino,Yes,1,2,49844,3,45,330,324,Not Well,Female,Spanish,Yes,295,No
+1501,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,13312,2,40,205,260,Not At All,Female,Spanish,Yes,32,No
+1502,Single parent (mother figure only),White,No,1,1,0,2,38,285,261,Very Well,Female,English,Yes,34,No
+1508,Two parent family,Hispanic/Latino,Yes,2,1,26520,3,34,85,262,Not Well,Female,Spanish,Yes,8,No
+1509,Two parent family,Hispanic/Latino,Yes,2,3,38257,5,50,355,263,Not At All,Female,Spanish,Yes,58,No
+1514,Single parent (mother figure only),Black or African American,Yes,1,1,29440,2,43,150,264,Not Well,Female,Haitian Creole,Yes,230,No
+1516,Two parent family,Hispanic/Latino,Yes,2,1,13084,3,35,210,324,Not At All,Female,Spanish,Yes,266,No
+1517,Two parent family,Hispanic/Latino,Yes,2,1,13650,3,37,210,266,Not Well,Female,Spanish,Yes,31,No
+1518,Two parent family,Black or African American,Yes,2,1,19435,3,49,155,267,Very Well,Male,English,Yes,39,No
+1519,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,22400,2,44,270,268,Not Well,Female,Spanish,Yes,19,No
+1520,Two parent family,Asian,No,2,2,0,4,34,220,269,Not Well,Female,Gujarati,Yes,6,No
+1522,Two parent family,Other,Yes,2,1,23000,3,47,75,270,Very Well,Female,Portuguese,Yes,18,No
+1527,Two parent family,Black or African American,Yes,2,2,32740,4,51,65,271,Very Well,Male,Amharic,Yes,10,No
+1528,Two parent family,Other,Yes,2,1,26000,3,37,75,272,Very Well,Male,Portuguese,Yes,11,No
+1532,Two parent family,Other,Yes,2,2,18200,4,44,195,273,Not Well,Female,Portuguese,Yes,22,No
+1533,Single parent (father figure only) living w/partner,White,No,1,1,0,2,39,220,274,,Male,English,Yes,21,No
+1534,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,12168,2,42,320,275,Not At All,Female,Spanish,Yes,17,No
+1535,Two parent family,Bi-racial/Multi-racial,Yes,2,2,48493,4,48,155,276,Very Well,Female,English,Yes,12,No
+1538,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,21531,2,36,55,277,Very Well,Female,English,Yes,2,No
+1540,Single parent (mother figure only),White,Yes,1,2,7280,3,50,165,278,Very Well,Female,English,No,20,No
+1541,Single parent (father figure only),Black or African American,Yes,1,1,15607,2,48,205,279,Not Well,Male,Creole,Yes,32,No
+1545,Single parent (mother figure only) living w/partner,Hispanic/Latino,Yes,1,2,29869,3,43,85,280,Not Well,Female,Spanish,Yes,17,No
+1546,Two parent family,White,Yes,2,4,13520,6,61,175,281,Very Well,Male,Arabic,Yes,14,No
+1548,Single parent (mother figure only),White,Yes,1,1,38400,2,44,150,282,Well,Female,Arabic,Yes,54,No
+1551,Single parent (mother figure only),Hispanic/Latino,Yes,1,1,0,2,34,190,283,Not At All,Female,Spanish,Yes,21,No
+1552,Two parent family,Hispanic/Latino,Yes,2,1,17420,3,35,165,284,Not Well,Male,Spanish,Yes,36,No
+1701,Two parent family,Black or African American,No,2,3,0,5,44,230,285,,Female,Creole,Yes,84,No
