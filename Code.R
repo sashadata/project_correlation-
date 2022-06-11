@@ -1,4 +1,4 @@
-# Title: Exploratory Data Analysis
+### Title: Exploratory Data Analysis
 ### Get to know data in the dataset
 
 
@@ -43,7 +43,7 @@ crosstable(df, c(Gender), by=Dropout, total="column") %>%
 ### 41 were males (18% of all males)
 
 
-### create barplot to demostrate the number of dropout out by gender
+### create barplot to demonstrate the number of dropout out by gender
 library(ggthemes)
 df %>% 
   group_by(Gender, Dropout) %>%
@@ -56,8 +56,8 @@ df %>%
   ggtitle("Completed vs Dropout")
   
 
-### undetify age group and gender that have the high number of drops
-### create new age catergories for age variable and identity the highest numbers including gender
+### identify age group and gender that have the high number of drops
+### create new age categories for age variable and identity the highest numbers including gender
 ### use crosstable to look at the number and %
 
 df %>% 
